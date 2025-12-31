@@ -4,22 +4,20 @@ backend:
 
 locale: 'es'
 
-media_folder: "uploads"
-public_folder: "/uploads"
+media_folder: "uploads/nuevas"
+public_folder: "/uploads/nuevas"
 
 collections:
-  - name: "recetas"
-    label: "Recetas"
-    folder: "recetas"
+  - name: "recetas-nuevas"
+    label: "Crear Nueva Receta"
+    folder: "recetas-nuevas"
     create: true
     slug: "{{slug}}"
-    extension: "html"
-    format: "frontmatter"
+    extension: "md"
     fields:
       - {label: "Título", name: "title", widget: "string"}
-      - {label: "Fecha", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
+      - {label: "Fecha", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "DD/MM/YYYY", picker_utc: false}
       - {label: "Imagen destacada", name: "thumbnail", widget: "image", required: false}
-      - {label: "Categorías", name: "categories", widget: "select", multiple: true, options: ["Platos principales", "Ensaladas", "Desayunos", "Postres", "Veganas", "Snacks dulces", "Snacks salados", "Sopas y cremas", "Salsas", "Acompañamientos", "Olla lenta", "Microondas"]}
-      - {label: "Ingredientes", name: "ingredientes", widget: "list", field: {label: "Ingrediente", name: "ingrediente", widget: "string"}}
-      - {label: "Preparación", name: "preparacion", widget: "list", field: {label: "Paso", name: "paso", widget: "string"}}
-      - {label: "Descripción", name: "body", widget: "markdown"}
+      - {label: "Categorías", name: "categories", widget: "select", multiple: true, options: ["platos-principales", "ensaladas", "desayunos-2", "postres", "recetas-veganas", "snacks-2", "snacks", "sopas-y-cremas", "salsas", "acompanamientos", "olla-lenta", "microondas"]}
+      - {label: "Descripción corta", name: "excerpt", widget: "string"}
+      - {label: "Contenido", name: "body", widget: "markdown"}
