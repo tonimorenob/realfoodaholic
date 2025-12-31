@@ -1,0 +1,25 @@
+backend:
+  name: git-gateway
+  branch: main
+
+locale: 'es'
+
+media_folder: "uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "recetas"
+    label: "Recetas"
+    folder: "recetas"
+    create: true
+    slug: "{{slug}}"
+    extension: "html"
+    format: "frontmatter"
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Fecha", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
+      - {label: "Imagen destacada", name: "thumbnail", widget: "image", required: false}
+      - {label: "Categorías", name: "categories", widget: "select", multiple: true, options: ["Platos principales", "Ensaladas", "Desayunos", "Postres", "Veganas", "Snacks dulces", "Snacks salados", "Sopas y cremas", "Salsas", "Acompañamientos", "Olla lenta", "Microondas"]}
+      - {label: "Ingredientes", name: "ingredientes", widget: "list", field: {label: "Ingrediente", name: "ingrediente", widget: "string"}}
+      - {label: "Preparación", name: "preparacion", widget: "list", field: {label: "Paso", name: "paso", widget: "string"}}
+      - {label: "Descripción", name: "body", widget: "markdown"}

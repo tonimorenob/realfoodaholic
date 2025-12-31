@@ -61,7 +61,7 @@ header {
 
 .header-content {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     padding: 15px 0;
 }
@@ -69,15 +69,15 @@ header {
 .logo {
     display: flex;
     align-items: center;
-    gap: 15px;
+    gap: 20px;
     font-size: 1.5rem;
     font-weight: 700;
     color: var(--primary);
 }
 
 .logo img {
-    width: 100px;
-    height: 100px;
+    width: 140px;
+    height: 140px;
     border-radius: 50%;
 }
 
@@ -449,12 +449,13 @@ footer p {
     }
     
     .logo img {
-        width: 70px;
-        height: 70px;
+        width: 100px;
+        height: 100px;
     }
     
     .logo {
         font-size: 1.2rem;
+        gap: 15px;
     }
     
     .logo-text nav {
