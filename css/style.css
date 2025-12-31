@@ -203,6 +203,39 @@ nav a:hover, nav a.active {
     color: white;
 }
 
+/* ===== SORT OPTIONS ===== */
+.sort-options {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid var(--border);
+}
+
+.sort-options span {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+}
+
+.sort-btn {
+    padding: 6px 14px;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 15px;
+    font-size: 0.85rem;
+    color: var(--text-light);
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.sort-btn:hover, .sort-btn.active {
+    background: var(--secondary);
+    border-color: var(--secondary);
+    color: var(--text);
+}
+
 /* ===== RECIPE GRID ===== */
 .recipes-section {
     padding: 20px 0 60px;
