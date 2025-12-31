@@ -396,6 +396,16 @@ nav a:hover, nav a.active {
     border-bottom: 2px solid var(--secondary);
 }
 
+.category-card h2 a {
+    color: var(--primary);
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.category-card h2 a:hover {
+    color: var(--primary-dark);
+}
+
 .category-card ul {
     list-style: none;
 }
@@ -415,6 +425,20 @@ nav a:hover, nav a.active {
 
 .category-card a:hover {
     color: var(--primary);
+}
+
+.category-card .ver-mas {
+    display: block;
+    color: var(--primary);
+    font-weight: 600;
+    font-style: italic;
+    padding: 10px 0;
+    transition: color 0.2s, transform 0.2s;
+}
+
+.category-card .ver-mas:hover {
+    color: var(--primary-dark);
+    transform: translateX(5px);
 }
 
 /* ===== FOOTER ===== */

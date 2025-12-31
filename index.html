@@ -108,6 +108,23 @@
         renderRecipes(filtered);
     }
     
+    // Leer hash de la URL para activar filtro de categoría
+    function checkUrlHash() {
+        const hash = window.location.hash.substring(1); // quitar el #
+        if (hash) {
+            const btn = document.querySelector(`.filter-btn[data-category="${hash}"]`);
+            if (btn) {
+                filterByCategory(hash);
+                // Scroll suave hacia la sección de recetas
+                document.querySelector('.recipes-section').scrollIntoView({ behavior: 'smooth' });
+            }
+        }
+    }
+    
+    // Ejecutar al cargar y cuando cambie el hash
+    checkUrlHash();
+    window.addEventListener('hashchange', checkUrlHash);
+    
     renderRecipes(recipes);
     </script>
   <script>
