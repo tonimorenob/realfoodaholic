@@ -1,0 +1,28 @@
+title: Realfoodaholic
+description: Recetas de comida real
+baseurl: ""
+url: ""
+
+collections:
+  recetas:
+    output: true
+    permalink: /recetas/:slug.html
+
+defaults:
+  - scope:
+      path: ""
+      type: "recetas"
+    values:
+      layout: "receta"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+keep_files:
+  - uploads
+  - img
+  - recetas
