@@ -117,15 +117,19 @@
                 filterByCategory(hash);
                 // Scroll suave hacia la sección de recetas
                 document.querySelector('.recipes-section').scrollIntoView({ behavior: 'smooth' });
+                return true; // indica que se aplicó un filtro
             }
         }
+        return false; // no había hash válido
     }
     
-    // Ejecutar al cargar y cuando cambie el hash
-    checkUrlHash();
-    window.addEventListener('hashchange', checkUrlHash);
+    // Ejecutar al cargar: primero verificar hash, si no hay mostrar todas
+    if (!checkUrlHash()) {
+        renderRecipes(recipes);
+    }
     
-    renderRecipes(recipes);
+    // Escuchar cambios de hash
+    window.addEventListener('hashchange', checkUrlHash);
     </script>
   <script>
     if (window.netlifyIdentity) {
