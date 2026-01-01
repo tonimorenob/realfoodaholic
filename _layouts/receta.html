@@ -74,11 +74,8 @@
                     
                     {% assign primera_cat = page.categories.first %}
                     {% assign nombre_cat = site.data.categorias[primera_cat] %}
-                    <h5>OTRAS RECETAS DE {{ nombre_cat | upcase }}</h5>
-                    
-                    <div id="recetas-relacionadas">
-                        <p><em>Cargando recetas...</em></p>
-                    </div>
+                    <h5>MÁS RECETAS DE {{ nombre_cat | upcase }}</h5>
+                    <p><a href="/categorias.html#{{ primera_cat }}" class="ver-mas-link">Ver todas las recetas de {{ nombre_cat }} →</a></p>
                 </div>
             </div>
         </article>
@@ -89,51 +86,5 @@
             <p>Realfoodaholic - Recetas de comida real 🥗</p>
         </div>
     </footer>
-    
-    <script>
-        const categoriaActual = "{{ page.categories.first }}";
-        const recetaActual = "{{ page.url | split: '/' | last | replace: '.html', '' }}";
-        
-        async function cargarRecetasRelacionadas() {
-            const container = document.getElementById('recetas-relacionadas');
-            let todasRecetas = [];
-            
-            // Cargar recetas del índice principal
-            if (typeof recipes !== 'undefined') {
-                todasRecetas = recipes;
-            }
-            
-            // Cargar recetas nuevas
-            try {
-                const response = await fetch('/recetas-nuevas.json');
-                if (response.ok) {
-                    const nuevas = await response.json();
-                    nuevas.forEach(r => {
-                        if (!todasRecetas.find(e => e.slug === r.slug)) {
-                            todasRecetas.push(r);
-                        }
-                    });
-                }
-            } catch(e) {}
-            
-            // Filtrar por categoría
-            const relacionadas = todasRecetas.filter(r => 
-                r.categories && 
-                r.categories.includes(categoriaActual) && 
-                r.slug !== recetaActual
-            ).slice(0, 10);
-            
-            if (relacionadas.length > 0) {
-                container.innerHTML = relacionadas.map(r => 
-                    `<p><a href="/recetas/${r.slug}.html">${r.title}</a></p>`
-                ).join('');
-            } else {
-                container.innerHTML = '<p><em>Próximamente más recetas de esta categoría</em></p>';
-            }
-        }
-        
-        cargarRecetasRelacionadas();
-    </script>
-    <script src="/js/recipes-data.js"></script>
 </body>
 </html>
