@@ -10,25 +10,3 @@ salsas: "Salsas y patés"
 acompanamientos: "Acompañamientos"
 olla-lenta: "Olla lenta"
 microondas: "Microondas"
-```
-
-4. **"Commit changes"**
-
-Luego, edita `recetas-nuevas.json` y reemplázalo por:
-```
----
-layout: null
----
-[
-{% for recipe in site.recetas %}
-  {
-    "title": {{ recipe.title | jsonify }},
-    "slug": "{{ recipe.slug }}",
-    "date": "{{ recipe.date | date: '%Y-%m-%d' }}",
-    "categories": {{ recipe.categories | jsonify }},
-    "category_names": [{% for cat in recipe.categories %}"{{ site.data.categorias[cat] }}"{% unless forloop.last %},{% endunless %}{% endfor %}],
-    "thumbnail": {{ recipe.thumbnail | jsonify }},
-    "excerpt": {{ recipe.excerpt | jsonify }}
-  }{% unless forloop.last %},{% endunless %}
-{% endfor %}
-]
