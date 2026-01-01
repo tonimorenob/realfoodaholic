@@ -16,5 +16,22 @@ collections:
       - {label: "Fecha", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "DD/MM/YYYY", picker_utc: false}
       - {label: "Imagen destacada", name: "thumbnail", widget: "image", required: false}
       - {label: "Categorías", name: "categories", widget: "select", multiple: true, options: ["platos-principales", "ensaladas", "desayunos-2", "postres", "recetas-veganas", "snacks-2", "snacks", "sopas-y-cremas", "salsas", "acompanamientos", "olla-lenta", "microondas"]}
+      - label: "Nombre de categoría"
+        name: "category_names"
+        widget: "select"
+        multiple: true
+        options:
+          - "Platos principales"
+          - "Ensaladas"
+          - "Desayunos"
+          - "Postres"
+          - "Veganas"
+          - "Snacks dulces"
+          - "Snacks salados"
+          - "Sopas y cremas"
+          - "Salsas y patés"
+          - "Acompañamientos"
+          - "Olla lenta"
+          - "Microondas"
       - {label: "Descripción corta", name: "excerpt", widget: "string"}
       - {label: "Contenido", name: "body", widget: "markdown"}
