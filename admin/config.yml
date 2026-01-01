@@ -11,7 +11,7 @@ collections:
     create: true
     slug: "{{slug}}"
     extension: "md"
-fields:
+    fields:
       - label: "Título"
         name: "title"
         widget: "string"
