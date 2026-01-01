@@ -10,7 +10,7 @@ public_folder: "/uploads/nuevas"
 collections:
   - name: "recetas-nuevas"
     label: "Crear Nueva Receta"
-    folder: "recetas-nuevas"
+    folder: "_recetas"
     create: true
     slug: "{{slug}}"
     extension: "md"
