@@ -36,12 +36,50 @@
                 <h1>{{ page.title }}</h1>
                 <div class="recipe-meta">
                     <span>📅 {{ page.date | date: "%Y-%m-%d" }}</span>
-                    {% if page.category_names.first %}
-                    <span>📍 {{ page.category_names.first }}</span>
+                    {% if page.categories.first %}
+                    <span>📁 {% for cat in page.categories %}{{ site.data.categorias[cat] }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
                     {% endif %}
                 </div>
+                
                 <div class="recipe-body">
                     {{ content }}
+                    
+                    <div style="height:24px" aria-hidden="true"></div>
+                    
+                    <div class="wp-block-columns">
+                        <div class="wp-block-column" style="flex-basis:33.33%">
+                            <h5>INGREDIENTES</h5>
+                            <ul>
+                            {% for item in page.ingredientes %}
+                                <li>{{ item }}</li>
+                            {% endfor %}
+                            </ul>
+                        </div>
+                        
+                        <div class="wp-block-column" style="flex-basis:66.66%">
+                            <h5>PREPARACIÓN</h5>
+                            <ol>
+                            {% for paso in page.preparacion %}
+                                <li>{{ paso }}</li>
+                            {% endfor %}
+                            </ol>
+                        </div>
+                    </div>
+                    
+                    <div style="height:40px" aria-hidden="true"></div>
+                    
+                    {% assign primera_cat = page.categories.first %}
+                    {% assign nombre_cat = site.data.categorias[primera_cat] %}
+                    <h5>OTRAS RECETAS DE {{ nombre_cat | upcase }}</h5>
+                    
+                    {% assign recetas_relacionadas = site.recetas | where_exp: "receta", "receta.categories contains primera_cat" | where_exp: "receta", "receta.url != page.url" | limit: 10 %}
+                    {% for receta in recetas_relacionadas %}
+                    <p><a href="{{ receta.url }}">{{ receta.title }}</a></p>
+                    {% endfor %}
+                    
+                    {% if recetas_relacionadas.size == 0 %}
+                    <p><em>Próximamente más recetas de esta categoría</em></p>
+                    {% endif %}
                 </div>
             </div>
         </article>
