@@ -50,8 +50,10 @@
                         <div class="wp-block-column" style="flex-basis:33.33%">
                             <h5>INGREDIENTES</h5>
                             <ul>
-                            {% for item in page.ingredientes %}
-                                <li>{{ item }}</li>
+                            {% assign ingredientes_lista = page.ingredientes | split: "
+" %}
+                            {% for item in ingredientes_lista %}
+                                {% if item != "" %}<li>{{ item }}</li>{% endif %}
                             {% endfor %}
                             </ul>
                         </div>
@@ -59,8 +61,10 @@
                         <div class="wp-block-column" style="flex-basis:66.66%">
                             <h5>PREPARACIÓN</h5>
                             <ol>
-                            {% for paso in page.preparacion %}
-                                <li>{{ paso }}</li>
+                            {% assign preparacion_lista = page.preparacion | split: "
+" %}
+                            {% for paso in preparacion_lista %}
+                                {% if paso != "" %}<li>{{ paso }}</li>{% endif %}
                             {% endfor %}
                             </ol>
                         </div>
@@ -72,14 +76,9 @@
                     {% assign nombre_cat = site.data.categorias[primera_cat] %}
                     <h5>OTRAS RECETAS DE {{ nombre_cat | upcase }}</h5>
                     
-                    {% assign recetas_relacionadas = site.recetas | where_exp: "receta", "receta.categories contains primera_cat" | where_exp: "receta", "receta.url != page.url" | limit: 10 %}
-                    {% for receta in recetas_relacionadas %}
-                    <p><a href="{{ receta.url }}">{{ receta.title }}</a></p>
-                    {% endfor %}
-                    
-                    {% if recetas_relacionadas.size == 0 %}
-                    <p><em>Próximamente más recetas de esta categoría</em></p>
-                    {% endif %}
+                    <div id="recetas-relacionadas">
+                        <p><em>Cargando recetas...</em></p>
+                    </div>
                 </div>
             </div>
         </article>
@@ -90,5 +89,51 @@
             <p>Realfoodaholic - Recetas de comida real 🥗</p>
         </div>
     </footer>
+    
+    <script>
+        const categoriaActual = "{{ page.categories.first }}";
+        const recetaActual = "{{ page.url | split: '/' | last | replace: '.html', '' }}";
+        
+        async function cargarRecetasRelacionadas() {
+            const container = document.getElementById('recetas-relacionadas');
+            let todasRecetas = [];
+            
+            // Cargar recetas del índice principal
+            if (typeof recipes !== 'undefined') {
+                todasRecetas = recipes;
+            }
+            
+            // Cargar recetas nuevas
+            try {
+                const response = await fetch('/recetas-nuevas.json');
+                if (response.ok) {
+                    const nuevas = await response.json();
+                    nuevas.forEach(r => {
+                        if (!todasRecetas.find(e => e.slug === r.slug)) {
+                            todasRecetas.push(r);
+                        }
+                    });
+                }
+            } catch(e) {}
+            
+            // Filtrar por categoría
+            const relacionadas = todasRecetas.filter(r => 
+                r.categories && 
+                r.categories.includes(categoriaActual) && 
+                r.slug !== recetaActual
+            ).slice(0, 10);
+            
+            if (relacionadas.length > 0) {
+                container.innerHTML = relacionadas.map(r => 
+                    `<p><a href="/recetas/${r.slug}.html">${r.title}</a></p>`
+                ).join('');
+            } else {
+                container.innerHTML = '<p><em>Próximamente más recetas de esta categoría</em></p>';
+            }
+        }
+        
+        cargarRecetasRelacionadas();
+    </script>
+    <script src="/js/recipes-data.js"></script>
 </body>
 </html>
