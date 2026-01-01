@@ -146,10 +146,28 @@
         return false; // no había hash válido
     }
     
-    // Ejecutar al cargar: primero verificar hash, si no hay mostrar todas
-    if (!checkUrlHash()) {
-        renderRecipes(recipes);
+   // Cargar recetas nuevas del CMS y combinarlas
+    async function loadAllRecipes() {
+        try {
+            const response = await fetch('/recetas-nuevas.json');
+            if (response.ok) {
+                const nuevasRecetas = await response.json();
+                nuevasRecetas.forEach(r => {
+                    if (!recipes.find(existing => existing.slug === r.slug)) {
+                        recipes.push(r);
+                    }
+                });
+            }
+        } catch (e) {
+            console.log('No hay recetas nuevas:', e);
+        }
+        
+        if (!checkUrlHash()) {
+            renderRecipes(recipes);
+        }
     }
+    
+    loadAllRecipes();
     
     // Escuchar cambios de hash
     window.addEventListener('hashchange', checkUrlHash);
