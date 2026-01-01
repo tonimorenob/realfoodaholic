@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - Realfoodaholic</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <a href="/index.html" class="logo">
+                <img src="/img/avatar.jpg" alt="Realfoodaholic">
+                <div class="logo-text">
+                    <span>realfoodaholic</span>
+                    <nav>
+                        <a href="/index.html">Inicio</a>
+                        <a href="/categorias.html">Categorías</a>
+                    </nav>
+                </div>
+            </a>
+        </div>
+    </header>
+    
+    <main class="container" style="padding: 40px 20px;">
+        <a href="/index.html" class="back-link">← Volver a las recetas</a>
+        
+        <article>
+            {% if page.thumbnail %}
+            <img src="{{ page.thumbnail }}" alt="{{ page.title }}" class="recipe-featured-img">
+            {% endif %}
+            
+            <div class="recipe-content">
+                <h1>{{ page.title }}</h1>
+                <div class="recipe-meta">
+                    <span>📅 {{ page.date | date: "%Y-%m-%d" }}</span>
+                    {% if page.category_names.first %}
+                    <span>📍 {{ page.category_names.first }}</span>
+                    {% endif %}
+                </div>
+                <div class="recipe-body">
+                    {{ content }}
+                </div>
+            </div>
+        </article>
+    </main>
+    
+    <footer>
+        <div class="container">
+            <p>Realfoodaholic - Recetas de comida real 🥗</p>
+        </div>
+    </footer>
+</body>
+</html>
