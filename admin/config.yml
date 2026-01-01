@@ -11,10 +11,17 @@ collections:
     create: true
     slug: "{{slug}}"
     extension: "md"
-    fields:
-      - {label: "Título", name: "title", widget: "string"}
-      - {label: "Fecha", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "DD/MM/YYYY", picker_utc: false}
-      - {label: "Imagen destacada", name: "thumbnail", widget: "image", required: false}
+fields:
+      - label: "Título"
+        name: "title"
+        widget: "string"
+      - label: "Fecha"
+        name: "date"
+        widget: "datetime"
+      - label: "Imagen destacada"
+        name: "thumbnail"
+        widget: "image"
+        media_folder: "/uploads/nuevas"
       - label: "Categorías"
         name: "categories"
         widget: "select"
@@ -32,5 +39,28 @@ collections:
           - { label: "Acompañamientos", value: "acompanamientos" }
           - { label: "Olla lenta", value: "olla-lenta" }
           - { label: "Microondas", value: "microondas" }
-      - {label: "Descripción corta", name: "excerpt", widget: "string"}
-      - {label: "Contenido", name: "body", widget: "markdown"}
+      - label: "Descripción"
+        name: "body"
+        widget: "markdown"
+        hint: "Texto introductorio de la receta"
+      - label: "Ingredientes"
+        name: "ingredientes"
+        widget: "list"
+        hint: "Añade cada ingrediente por separado"
+        field:
+          label: "Ingrediente"
+          name: "ingrediente"
+          widget: "string"
+      - label: "Preparación"
+        name: "preparacion"
+        widget: "list"
+        hint: "Añade cada paso por separado"
+        field:
+          label: "Paso"
+          name: "paso"
+          widget: "string"
+      - label: "Extracto"
+        name: "excerpt"
+        widget: "text"
+        required: false
+        hint: "Resumen corto para la vista previa (opcional)"
