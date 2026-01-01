@@ -1,16 +1,13 @@
 backend:
   name: git-gateway
   branch: main
-
 locale: 'es'
-
 media_folder: "uploads/nuevas"
 public_folder: "/uploads/nuevas"
-
 collections:
-  - name: "recetas-nuevas"
+  - name: "recetas"
     label: "Crear Nueva Receta"
-    folder: "recetas-nuevas"
+    folder: "_recetas"
     create: true
     slug: "{{slug}}"
     extension: "md"
