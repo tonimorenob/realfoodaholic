@@ -1,0 +1,16 @@
+---
+layout: null
+---
+[
+{% for recipe in site.recetas %}
+  {
+    "title": {{ recipe.title | jsonify }},
+    "slug": "{{ recipe.slug }}",
+    "date": "{{ recipe.date | date: '%Y-%m-%d' }}",
+    "categories": {{ recipe.categories | jsonify }},
+    "category_names": {{ recipe.category_names | jsonify }},
+    "thumbnail": {{ recipe.thumbnail | jsonify }},
+    "excerpt": {{ recipe.excerpt | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
