@@ -3,8 +3,8 @@ title: ESCALDUMS DE POLLO
 date: 2026-01-01T21:48:00.000+01:00
 thumbnail: /uploads/nuevas/escaldums_pollo.jpg
 categories:
-  - olla-lenta
   - platos-principales
+  - olla-lenta
 ingredientes: |-
   700g pollo troceado
   2 vasos de agua
