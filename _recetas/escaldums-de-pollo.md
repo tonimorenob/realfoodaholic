@@ -5,14 +5,37 @@ thumbnail: /uploads/nuevas/escaldums_pollo.jpg
 categories:
   - platos-principales
   - olla-lenta
-excerpt: INGREDIENTES PRINCIPALES 700g pollo troceado 2 vasos de agua 1 vaso de
-  vino oloroso 4 pasas de corinto 4 orejones 8 pasas 5 dientes de ajo 1000 g de
-  patatas 2 rodajas de sobrasada Aceite de oliva Sal a gusto Pimienta a gusto
+excerpt: ESCALDUMS DE POLLO
 ---
+###### INGREDIENTES PRINCIPALES
 
+###### 700g pollo troceado
 
+###### 2 vasos de agua
+
+###### 1 vaso de vino oloroso
+
+###### 4 pasas de corinto
+
+###### 4 orejones
+
+###### 8 pasas
+
+###### 5 dientes de ajo
+
+###### 1000 g de patatas
+
+###### 2 rodajas de sobrasada
+
+###### Aceite de oliva
+
+###### Sal a gusto
+
+###### Pimienta a gusto
 
 ## Preparación de la receta
+
+
 
  Para preparar la receta de Escaldums de pollo:
 
