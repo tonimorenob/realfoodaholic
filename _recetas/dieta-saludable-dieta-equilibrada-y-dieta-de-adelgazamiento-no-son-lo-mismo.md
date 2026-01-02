@@ -1,0 +1,7 @@
+---
+layout: receta
+title: "DIETA SALUDABLE, EQUILIBRADA Y DE ADELGAZAMIENTO NO SON LO MISMO"
+date: 2021-01-19
+thumbnail: "/uploads/2021/01/0001-16127072315_20210128_184908_0000.webp"
+---
+
