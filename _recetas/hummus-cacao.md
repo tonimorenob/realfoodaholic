@@ -7,6 +7,12 @@ categories:
   - desayunos-2
   - recetas-veganas
   - salsas
+ingredientes: |
+  200 g de garbanzos cocidos
+  1 Cda de tahini
+  1 Cda de cacao puro en polvo
+  2 Cdas de eritritol
+  Agua
 ---
 
 ¿Habéis probado alguna vez un hummus dulce? ¿No? Pues ya tardáis en probar este hummus de cacao.

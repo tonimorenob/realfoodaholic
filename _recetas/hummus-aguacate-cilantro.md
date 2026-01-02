@@ -7,6 +7,15 @@ categories:
   - recetas-veganas
   - salsas
   - snacks
+ingredientes: |
+  200 g de garbanzos cocidos
+  1 aguacate pequeño
+  1 diente de ajo (sin el corazón)
+  Aceite de oliva virgen extra
+  1 Cda de tahín
+  Cilantro fresco
+  Zumo de 1/2 lima
+  Agua
 ---
 
 Hoy os traigo un hummus de garbanzos con una combinación de sabores que me encanta: hummus de aguacate y cilantro.

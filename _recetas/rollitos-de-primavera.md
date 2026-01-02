@@ -15,6 +15,14 @@ ingredientes: |
   Agua
   Aceite de oliva virgen
   Sal
+  
+Salsa agridulce:
+  El jugo de una lata pequeña de piña en su jugo (unos 80 g)
+  1 cda de tomate concentrado
+  Un chorro de salsa de soja
+  Un chorrito de vinagre
+  Endulzante al gusto (en mi caso eritritol)
+  1 cdta rasa de maicena
 preparacion: |
   Precalentamos el horno a 200º con calor arriba y abajo.
   Ponemos a hidratar en agua la proteína de guisante texturizada.

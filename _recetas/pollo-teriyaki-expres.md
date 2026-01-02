@@ -9,6 +9,15 @@ ingredientes: |
   2 pechugas de pollo
   Cebolla tierna (para decorar)
   Arroz hervido
+  
+Salsa teriyaki exprés:
+  120 g de jugo de piña
+  1 Cda de vinagre de arroz o de manzana
+  1 Cda de mirin
+  70 g de salsa de soja
+  Jengibre y ajo en polvo
+  1 cdta colmada de maicena
+  Endulzante al gusto (opcional)
 preparacion: |
   Mezclamos todos los ingredientes de la salsa en un cazo, excepto la maicena, y calentamos unos minutos.
   Dejamos enfriar, metemos las pechugas en un recipiente y les echamos la salsa por encima para marinarlas.

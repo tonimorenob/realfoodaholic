@@ -6,29 +6,19 @@ thumbnail: /uploads/2021/02/IMG_20210222_182317.webp
 categories:
   - platos-principales
   - recetas-veganas
-ingredientes: >-
-  Pulled pork vegano:
-
-
+ingredientes: |
+  
+Pulled pork vegano:
   1 piel de plátano ecológico
-
   Especias al gusto: pimentón ahumado, comino en polvo, orégano, cebolla y ajo en polvo
-
   1 Cda de salsa de soja
-
   1 cdta de tomate concentrado
-
   Sal
-
   Agua
-
-  Panecillo (opcional, no vegano):
-
-
+  
+Panecillo (opcional, no vegano):
   1 Cda rasa de leche en polvo
-
   1 huevo
-
   Una pizca de levadura en polvo
 preparacion: >
   Lavamos muy bien el plátano y lo pelamos.

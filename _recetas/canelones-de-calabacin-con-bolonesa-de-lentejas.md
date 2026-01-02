@@ -11,6 +11,15 @@ ingredientes: |
   Bechamel de calabacín (podéis ver la receta clicando aquí)
   Boloñesa de lentejas (ingredientes más abajo)
   Parmesano rallado (o queso vegano)
+  
+Ingredientes para la boloñesa:
+  200 g de lentejas cocidas, lavadas y escurridas
+  1 rama de apio
+  1 zanahoria
+  1/2 cebolla
+  300 g de tomate triturado
+  1 hoja de laurel
+  Aceite de oliva virgen
 preparacion: |
   Preparamos la boloñesa sofriendo las verduras, cortadas en trocitos pequeños, en aceite de oliva virgen y, cuando estén hechas, añadimos las lentejas y el tomate y cocinamos durante unos 15 minutos, hasta que se reduzca el agua del tomate.
   Para preparar los canelones cocinamos las láminas de calabacín a la plancha (sin hacerlas demasiado) y, una vez hechas, las vamos poniendo una al lado de otra superponiéndolas un poco por los lados, para poder hacer un canelón largo; para cada canelón necesitaremos 3 o 4 láminas de calabacín, dependiendo de lo anchas que sean.

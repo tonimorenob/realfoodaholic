@@ -12,6 +12,13 @@ ingredientes: |
   Verduras variadas cortadas en juliana fina
   Hierbas frescas
   Pollo deshilachado
+  
+Para la salsa:
+  Crema de cacahuete
+  Zumo de lima
+  Salsa de soja
+  Agua
+  Aceite de sésamo (opcional)
 preparacion: |
   Cortamos todas las verduras en juliana finita (yo he usado las que tenía por la nevera: zanahoria, pepino, col, sofrito y germinados), y también el pollo (he hecho una pechuga al vapor en el micro).
   Una vez tengamos todos los ingredientes listos, vamos hidratando las obleas en agua templada durante unos 20 segundos (una a una a medida que las vayamos rellenando), las secamos un poquito con papel de cocina con cuidado de no romperlas y rellenamos con las verduras, las hierbas (yo he usado cilantro, pero podéis usar hierbabuena o menta, perejil, albahaca...) y el pollo (o tofu, gambas...), y cerramos los rollitos.

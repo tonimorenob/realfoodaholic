@@ -13,6 +13,10 @@ ingredientes: |
   2 huevos medianos
   Verduras varias (yo he usado 1/2 cebolla roja, 1/2 pimiento verde, 1 ajo tierno y 1 tronco de brócoli)
   Especias (he usado comino, ajo en polvo, pimentón dulce, pimienta y canela) y sal
+  
+Salsa de piquillos:
+  4 pimientos de piquillo
+  1 cucharadita de yogur
 preparacion: |
   Picamos las verduras y las sofreímos en un poco de aceite de oliva virgen hasta que estén blandas.
   Picamos la pechuga y el solomillo en la picadora sin llegar a hacerlas una masa (mejor si quedan trocitos).

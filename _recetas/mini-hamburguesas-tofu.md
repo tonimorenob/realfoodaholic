@@ -14,6 +14,12 @@ ingredientes: |
   1 Cda de harina de garbanzo
   Cilantro fresco
   Sal
+  
+Salsa de yogur:
+  100 g de yogur natural
+  Cilantro fresco
+  Zumo de media lima
+  Sal
 preparacion: |
   Escurrimos el tofu presionándolo sobre un poco de papel de cocina y lo desmigamos con las manos en un bol.
   Pelamos y rallamos la zanahoria, picamos los ajos tiernos y los añadimos al bol.

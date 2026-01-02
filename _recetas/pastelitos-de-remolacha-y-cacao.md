@@ -17,6 +17,10 @@ ingredientes: |
   1/2 cdta de bicarbonato
   Zumo de medio limón
   Pizca de sal
+  
+Para el frosting:
+  Un poquito de jugo de remolacha
+  150 g de mascarpone
 preparacion: |
   Precalentamos el horno a 180º con calor arriba y abajo.
   Metemos en la picadora la remolacha a trozos, los huevos, los dátiles sin hueso, el cacao en polvo, el zumo de limón y la sal y trituramos bien.

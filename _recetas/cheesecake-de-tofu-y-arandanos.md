@@ -13,6 +13,9 @@ ingredientes: |
   2 huevos
   30 g de maicena
   30 g de suero de yogur (aproveché que lo tenía para añadir un poco, pero no es necesario)
+  
+Topping:
+  Frutos rojos congelados cocinados al micro
 preparacion: |
   Precalentamos el horno a 180° con ventilador, mezclamos los ingredientes de la base y la ponemos en el molde, aplastándola bien para que quede fina. La metemos en el horno mientras hacemos el relleno.
   Para el relleno ponemos todos los ingredientes en el vaso de la batidora y trituramos bien hasta que quede una mezcla homogénea. Ponemos sobre la base y metemos en el horno de nuevo unos 35 minutos o hasta que esté cuajado y dorado por arriba.

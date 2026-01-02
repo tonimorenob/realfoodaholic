@@ -7,33 +7,21 @@ categories:
   - ensaladas
   - platos-principales
   - salsas
-ingredientes: >-
-  Salsa rosa realfooder:
-
-
+ingredientes: |
+  
+Salsa rosa realfooder:
   1 huevo hervido
-
   100 g de yogur o queso fresco
-
   2 cucharaditas de pasta de tomate concentrado
-
   Un chorrito de vinagre de manzana
-
   Un minichorrito de Brandy (esto es opcional y menos realfooder, pero tengo que reconocer que le da el toque)
-
   Sal
-
-  Cocktail:
-
-
+  
+Cocktail:
   Lechuga iceberg
-
   Caqui persimón
-
   Aguacate
-
   Gambas peladas y hervidas
-
   Salsa cocktail realfooder
 preparacion: >
   Ponemos todos los ingredientes de la salsa en el vaso de la batidora y

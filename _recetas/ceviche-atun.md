@@ -14,6 +14,12 @@ ingredientes: |
   1/2 cebolla morada
   Un puñado de maíz mote (grano grande seco)
   1 boniato pequeño
+  
+Leche de tigre:
+  Zumo de 1 lima
+  Zumo de 1 limón
+  1 cdta de ají en polvo
+  1 puñado de cilantro fresco
 preparacion: |
   Cocemos el maíz durante unos 45 minutos. Si lo dejamos en remojo la noche antes se cocinará algo más rápido.
   Mientras tanto, cocinamos el boniato en el microondas o al horno hasta que esté blando.

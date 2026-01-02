@@ -7,6 +7,12 @@ categories:
   - platos-principales
   - recetas-veganas
   - sopas-y-cremas
+ingredientes: |
+  600 g de sandía
+  200 g de tomate
+  100 g de pepino sin piel
+  1 trozo de jengibre fresco
+  Sal
 ---
 
 Verano, calor... Y ¿qué mejor que una sopa fresquita de sandía?

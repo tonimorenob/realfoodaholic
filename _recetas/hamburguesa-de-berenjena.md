@@ -15,6 +15,11 @@ ingredientes: |
   Ajo en polvo
   Comino en polvo
   Sal
+  
+Salsa de pimiento asado:
+  1/2 pimiento asado
+  1 cucharada de queso fresco batido o yogur natural
+  Sal
 preparacion: |
   Cortamos la berenjena, el pimiento y la cebolla (ya cocinados) en trocitos muy pequeños; mejor con cuchillo, ya que con la picadora se harían puré y sacarían toda su agua.
   Las metemos en un bol y añadimos el resto de ingredientes excepto la harina, ya que la iremos incorporando poco a poco para ir viendo la consistencia que tiene la masa.

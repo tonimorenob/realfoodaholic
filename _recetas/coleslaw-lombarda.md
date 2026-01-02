@@ -12,6 +12,14 @@ ingredientes: |
   Col lombarda (aproximadamente 1/4/)
   1 rama de apio
   1 cebolla pequeña
+  
+Mayonesa de huevo duro:
+  1 huevo duro
+  1 Cda de yogur natural
+  Zumo de 1/2 lima
+  1/2 cdta de mostaza de Dijon
+  1 dátil Medjool
+  Agua
 preparacion: |
   Cortamos la lombarda, la zanahoria (previamente pelada), el apio y la cebolla en juliana muy fina.
   Preparamos la mayonesa poniendo todos los ingredientes en el vaso de la batidora y triturando bien, ajustando la textura con un poco de agua.

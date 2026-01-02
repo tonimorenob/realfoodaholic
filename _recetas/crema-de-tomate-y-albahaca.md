@@ -6,6 +6,12 @@ thumbnail: "/uploads/2021/01/crema-tomate-scaled.webp"
 categories:
   - platos-principales
   - sopas-y-cremas
+ingredientes: |
+  1 kg de tomates
+  2 dientes de ajo
+  1 puerro (la parte blanca)
+  1 pizca de eritritol o azúcar (opcional, para compensar la acidez del tomate en caso necesario)
+  Albahaca
 ---
 
 Ligera, calentita y facilísima de preparar, aquí tenéis una receta para vuestra colección de cremitas ricas: crema de tomate y albahaca.

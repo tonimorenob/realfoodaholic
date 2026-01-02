@@ -8,6 +8,14 @@ categories:
 ingredientes: |
   1 taza de gluten de trigo
   1 taza de agua
+  
+Para el caldo:
+  1 zanahoria
+  Parte verde de 1 puerro
+  Hojas de apio
+  1/2 cebolla
+  Alga kombu (opcional)
+  Salsa de soja
 preparacion: |
   Mezclamos bien las dos cosas sin amasar demasiado y dejamos reposar 20 minutos dentro del bol cubierto con papel film.
   Transcurrido ese tiempo formamos una bola con la masa, estirando la superficie e intentando meter la masa poco a poco hacia dentro por la parte de debajo para que quede lo más lisa posible.

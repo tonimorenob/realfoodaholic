@@ -12,6 +12,14 @@ ingredientes: |
   1 zanahoria
   1 puñado de judías redondas
   Una lata de salmón al natural
+  
+Mayonesa de huevo duro:
+  1 huevo duro
+  1 Cda de yogur natural
+  Zumo de limón
+  1/2 cdta de mostaza de Dijon
+  Agua
+  Sal
 preparacion: |
   Pelamos las patatas y las zanahorias y las cortamos en brunoise fina, o lo que es lo mismo, en cubos pequeñitos.
   Cortamos las judías en trocitos del mismo tamaño.

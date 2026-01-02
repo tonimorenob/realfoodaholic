@@ -6,6 +6,10 @@ thumbnail: "/uploads/2021/01/natillas-caqui.webp"
 categories:
   - postres
   - snacks-2
+ingredientes: |
+  1 caqui o persimon
+  1 cdta de cacao en polvo
+  Opcional: yogur natural
 ---
 
 Natillas de caqui y cacao, ¡el postre saludable perfecto! Son fáciles de prepara, solo llevan 2 ingredientes y están buenísimas.

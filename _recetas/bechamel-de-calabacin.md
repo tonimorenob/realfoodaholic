@@ -11,6 +11,13 @@ preparacion: |
   Cocinamos 10 minutitos más, añadimos la leche, la nuez moscada y sal y cocinamos otros 15 minutos, hasta que el calabacín esté blando.
   Retiramos del fuego y metemos todo en el vaso de la batidora. Os recomiendo que quitéis un poco de la leche antes para poder jugar con la consistencia de la bechamel dependiendo de para qué la queráis usar, ya que no será lo mismo para unas croquetas que para una lasaña.
   Trituramos bien con la batidora y añadimos más leche si procede (si no bastara con los 200 ml podemos añadir un poco más mientras batimos). Rectificamos de sal o de nuez moscada y bechamel de calabacín lista.
+ingredientes: |
+  2 calabacines medianos pelados
+  1/2 cebolla
+  200 ml de leche o bebida vegetal
+  Nuez moscada
+  Sal
+  Aceite de oliva virgen
 ---
 
 Sí, habéis leído bien, bechamel de calabacín, y tengo que decir que estoy gratamente sorprendida con el resultado; entre esta y la de coliflor dudo que vuelva a preparar una de verdad en mi vida.

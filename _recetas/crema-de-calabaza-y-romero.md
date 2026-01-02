@@ -7,6 +7,11 @@ categories:
   - platos-principales
   - recetas-veganas
   - sopas-y-cremas
+ingredientes: |
+  500 g de calabaza (mejor asada al horno)
+  1 cebolla
+  2 dientes de ajo
+  1 rama de romero
 ---
 
 Otra de mis cremitas otoñales favoritas es esta, la crema de calabaza y romero, ya que como sabéis soy muy fan de echarle hierbas aromáticas a todo.

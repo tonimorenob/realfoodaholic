@@ -6,6 +6,18 @@ thumbnail: "/uploads/2021/02/IMG_20210217_123513-scaled.webp"
 categories:
   - platos-principales
   - sopas-y-cremas
+ingredientes: |
+  250 ml de caldo de pollo
+  1 pechuga de pollo previamente cocinada y deshilachada
+  100 ml de leche de coco
+  1 tallo de lemongrass (hierba limón)
+  5 setas shiitake deshidratadas
+  1 ajo tierno
+  1 diente de ajo
+  2 hojas de lima kaffir
+  1 trozo de jengibre
+  Guindilla (opcional)
+  Cilantro, chili y unos gajos de lima (para servir)
 ---
 
 Aprendí a hacer esta sopa Thai en Ámsterdam, en el hotel en el que estuve trabajando y donde la mayoría de cocineros eran de Indonesia, y junto con el pollo satay, se convirtió en uno de mis grandes favoritos de la cocina asiática.

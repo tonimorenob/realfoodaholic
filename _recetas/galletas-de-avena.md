@@ -10,6 +10,9 @@ preparacion: |
   Trituramos bien el plátano con un tenedor hasta que quede con una textura elástica, añadimos los copos de avena y mezclamos bien. Ponemos papel vegetal en una bandeja de horno y formamos las galletas sobre ella; es importante darles la forma que queramos en este punto, ya que no cambiará durante la cocción.
   Metemos en el horno a 180° con ventilador (o 190° sin ventilador, con calor arriba y abajo) unos 15-20 mins, hasta que estén doraditas.
   Dejamos enfriar nuestras galletas de avena y plátano y ¡a disfrutar! Se pueden comer así, bañarlas en chocolate o añadir toppings a la masa, como pepitas de chocolate, frutos secos...
+ingredientes: |
+  1 plátano (mejor si está moribundo)
+  1/2 taza de copos de avena (unos 55 g)
 ---
 
 Hoy os traigo la receta de unas galletas sencillísimas de preparar, ya que llevan solo dos ingredientes: galletas de avena y plátano.

@@ -12,6 +12,12 @@ ingredientes: |
   1 cebolleta pequeña
   3 pepinillos agridulces
   Cebollino
+  
+Salsa:
+  Un huevo duro
+  1-2 Cdas de yogur natural o griego
+  1 Cda de mostaza antigua
+  Sal
 preparacion: |
   Cocinamos las patatas al vapor o hervidas, enteras y con la piel hasta que estén blandas, y dejamos enfriar.
   Las pelamos y las cortamos en cubos, y las metemos en un bol.

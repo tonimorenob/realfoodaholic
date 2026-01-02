@@ -7,6 +7,15 @@ categories:
   - recetas-veganas
   - salsas
   - snacks
+ingredientes: |
+  100 g de altramuces
+  5 tomates secos deshidratados
+  1 cda de tahín
+  1 diente de ajo
+  Zumo de limón
+  Comino
+  Aceite de oliva virgen extra
+  Agua (la que hayamos usado para hidratar los tomates)
 ---
 
 He hecho hummus de garbanzos, de alubias, de lentejas... pero no se me había ocurrido hacer un hummus de altramuces hasta hoy.

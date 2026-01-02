@@ -6,38 +6,24 @@ thumbnail: /uploads/2021/03/IMG20210317123507-01-scaled.webp
 categories:
   - platos-principales
   - recetas-veganas
-ingredientes: >-
-  Pulled pork de jackfruit:
-
-
+ingredientes: |
+  
+Pulled pork de jackfruit:
   200 g de jackfruit en lata
-
   Especias al gusto: pimentón ahumado, comino en polvo, orégano, cebolla y ajo en polvo
-
   1 Cda de salsa de soja
-
   1 cdta de tomate concentrado
-
   Sal
-
   Un chorrito de agua
-
-  Picada de aguacate, piña y cilantro:
-
-
+  
+Picada de aguacate, piña y cilantro:
   1 rodaja de piña al natural
-
   1/2 aguacate
-
   Cilantro fresco
-
   Zumo de lima
-
-  Col lombarda:
-
-
+  
+Col lombarda:
   Col lombarda
-
   Zumo de limón
 preparacion: >
   Cortamos un poco de col lombarda en juliana fina, la ponemos en un recipiente

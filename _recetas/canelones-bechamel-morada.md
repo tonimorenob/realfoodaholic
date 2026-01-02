@@ -7,6 +7,16 @@ categories:
   - platos-principales
   - recetas-veganas
   - salsas
+ingredientes: |
+  Bechamel de coliflor morada (receta aquí)
+  250 g de ricotta
+  2 puñados de espinacas frescas
+  6 canelones
+  Queso rallado (yo he usado Grana Padano)
+  Ajo en polvo
+  Cebolla en polvo
+  Sal
+  AOVE
 ---
 
 Lo confieso, soy muy fan de las verduras moradas, rosas o de cualquier color que quede igual de cuqui. Es por eso que el otro día compré una coliflor morada en el mercado, y hoy se me ha ocurrido hacer con ella una bechamel para hacer estos cuqui-canelones.

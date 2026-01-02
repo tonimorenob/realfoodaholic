@@ -7,6 +7,16 @@ categories:
   - platos-principales
   - recetas-veganas
   - snacks
+ingredientes: |
+  1 yuca pequeña
+  Sal
+  
+Relleno:
+  40 g de proteína de guisante texturizada
+  1/2 cebolla
+  1 diente de ajo
+  Especias: pimentón, comino, pimienta
+  Sal
 ---
 
 Vuelvo a la carga con mi adorada yuca. Tras la pizza de masa de yuca y las empanadas de pulled pork llegan las empanadas criollas veganas.

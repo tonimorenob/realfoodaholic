@@ -7,6 +7,14 @@ categories:
   - desayunos-2
   - postres
   - recetas-veganas
+ingredientes: |
+  40 g de harina de avena
+  15 g de crema de cacahuete + 15 g para rellenarlas
+  25 g de eritritol
+  25 g de bebida vegetal
+  1/2 cdta de cacao (en mi caso negro intenso)
+  1/2 cdta de levadura química
+  Una pizca de sal
 ---
 
 Cacao y crema de cacahuete, un combo ganador sea como sea y en cualquier momento. Fusionando eso con la receta de la cookie en airfryer como base han surgido estas galletas tan top.

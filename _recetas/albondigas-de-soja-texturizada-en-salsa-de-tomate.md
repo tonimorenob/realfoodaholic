@@ -13,6 +13,13 @@ ingredientes: |
   1 diente de ajo grande
   Perejil fresco picado
   Sal
+  
+Salsa de tomate:
+  1/2 cebolla
+  300 g de tomate triturado
+  1 diente de ajo
+  Aceite de oliva virgen
+  Perejil seco
 preparacion: |
   Hidratamos la soja en agua durante unos 20 minutos, y después la escurrimos en un colador (apretándola bien para que suelte el agua). En mi caso la cociné un par de minutos en una sartén (sin aceite) para quitarle el exceso de agua y después la trituré con una picadora para que los trozos fueran más pequeños, como de carne picada.
   Mezclamos la soja con el resto de ingredientes, mezclamos muy bien y dejamos reposar media hora en la nevera. Si la masa queda demasiado pegajosa añadiremos un poco más de harina de garbanzo para que quede más consistente.

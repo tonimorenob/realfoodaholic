@@ -7,6 +7,16 @@ categories:
   - recetas-veganas
   - salsas
   - snacks
+ingredientes: |
+  200 g de alubias blancas cocidas
+  50 g de remolacha cocida
+  1 cucharada de tahini
+  1 diente de ajo
+  Zumo de medio limón
+  Comino en polvo
+  AOVE
+  Sal
+  Agua
 ---
 
 Hoy os traigo un hummus de alubias blancas y remolacha muy cuqui.

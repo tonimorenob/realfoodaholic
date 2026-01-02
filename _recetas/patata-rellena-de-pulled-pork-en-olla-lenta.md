@@ -15,6 +15,16 @@ ingredientes: |
   Yogur natural
   1 cebolla tierna
   Cilantro fresco
+  
+Ingredientes pulled pork:
+  Pieza grandecita de cabeza de lomo de cerdo
+  1 lata de tomate concentrado
+  Orégano
+  Cebolla en polvo
+  Ajo en polvo
+  Pimentón
+  Salsa de soja
+  Sal y pimienta
 preparacion: |
   Cortamos la cebolla roja en juliana y la metemos en un recipiente junto con el zumo de 1/2 limón. La dejamos tapada en la nevera durante unas horas para que se marine y su sabor se suavice.
   Para preparar el pulled pork mezclamos bien todos los ingredientes y untamos la pieza de carne (ya introducida en la olla lenta sin encender) con la mezcla, usando las manos para impregnarla bien.

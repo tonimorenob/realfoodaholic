@@ -6,6 +6,10 @@ thumbnail: "/uploads/2021/01/empadanas-yuca-2-scaled.webp"
 categories:
   - platos-principales
   - recetas-veganas
+ingredientes: |
+  1 yuca grandecita
+  Sal
+  Relleno al gusto
 ---
 
 La pizza de yuca, de la que tenéis receta en otro post (clicando aquí) ya me pareció un espectáculo, pero es que estas empanadas de yuca han sido lo más de lo más.

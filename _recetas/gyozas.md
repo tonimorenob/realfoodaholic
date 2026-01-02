@@ -15,6 +15,11 @@ ingredientes: |
   Salsa de soja
   Aceite de sésamo
   1 cdta colmada de maicena
+  
+Para la salsa:
+  Una parte de salsa de soja
+  Una parte de vinagre de arroz
+  1/4 parte de aceite de sésamo
 preparacion: |
   Si las obleas están congeladas, las sacamos del congelador con un mínimo de 30 minutos de antelación para que les dé tiempo a descongelarse.
   Mientras tanto, hidratamos las setas en agua templada durante unos 15-20 minutos.

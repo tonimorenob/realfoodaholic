@@ -7,6 +7,17 @@ categories:
   - platos-principales
   - recetas-veganas
   - sopas-y-cremas
+ingredientes: |
+  400 g de fresas
+  250 g de tomate
+  100 g de pepino sin piel
+  100 g de pimiento verde
+  1/2 cebolla morada
+  10 g de aceite de oliva virgen extra
+  10 g de vinagre de Jerez (o de Módena)
+  Albahaca fresca
+  Agua (unos 100-150 ml)
+  Sal
 ---
 
 Soy una super fan del gazpacho, sobre todo en verano, y me encanta añadirles fruta además de hortalizas. Mis favoritos, el de mango (tenéis la receta aquí) y este gazpacho de fresas que está tremendo.

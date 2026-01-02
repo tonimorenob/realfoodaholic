@@ -12,6 +12,15 @@ ingredientes: |
   1/4 de mango
   Un trozo de pepino
   100 g de gambas congeladas
+  
+Salsa sweet chilli:
+  10 g de vinagre de arroz
+  Un chorrito de salsa de soja
+  2 Cdas de eritritol
+  1 diente de ajo picado
+  Una pizca de copos de chili
+  1/2 cdta de té de maicena
+  Agua
 preparacion: |
   Preparamos la salsa poniendo todos los ingredientes excepto la maicena en un cazo al fuego. La cantidad de agua dependerá de la consistencia que queramos, pero más o menos sería 1/2 de vaso.
   Cocinamos durante unos 5 minutos, diluimos la maicena en una cucharada de agua y la añadimos a la salsa.

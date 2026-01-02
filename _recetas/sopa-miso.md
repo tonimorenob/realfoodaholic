@@ -7,6 +7,15 @@ categories:
   - platos-principales
   - recetas-veganas
   - sopas-y-cremas
+ingredientes: |
+  200 g de tofu
+  50 g de noodles de arroz
+  6 setas shiitake deshidratadas
+  Alga wakame deshidratada
+  1 cebolla tierna
+  500 ml de agua
+  Dashi (opcional)
+  1 cdta de miso
 ---
 
 No soy demasiado fan de las sopas, soy más de cremas. Pero si hay una sopa que me gusta esa es la sopa miso.

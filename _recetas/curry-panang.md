@@ -17,6 +17,19 @@ ingredientes: |
   1 cdta de comino en polvo
   Agua o caldo
   Sal
+  
+Para la pasta de curry rojo:
+  3 dientes de ajo
+  Un buen trozo de jengibre fresco
+  Un tallo de hierba-limón
+  1 cdta de arroz crudo
+  1 cdta de comino en polvo
+  polvo
+  Chiles rojos secos (al gusto)
+  1 cdta de cilantro en
+  1/2 cebolla
+  Ralladura de una lima o limón
+  Sal
 preparacion: |
   Picamos bien todos los ingredientes de la pasta de curry en la picadora. Si usamos pasta de curry rojo ya hecha omitiremos este paso.
   Cortamos en trozos la cebolla, los pimientos y las judías. Yo los cociné un poco al vapor antes en el microondas, para que se reblandecieran un poco.

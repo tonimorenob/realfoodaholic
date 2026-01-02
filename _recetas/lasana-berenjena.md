@@ -16,6 +16,12 @@ ingredientes: |
   Un diente de ajo
   Queso Grana Padano
   Orégano
+  
+Bechamel de calabacín:
+  1 calabacín
+  1/2 cebolla
+  Leche o bebida vegetal
+  Nuez moscada
 preparacion: |
   Precalentamos el horno a 180º con calor arriba y abajo.
   Hacemos primero la boloñesa. Para ello picamos en la picadora la zanahoria, el apio, la mitad de la cebolla y el ajo y lo sofreímos todo unos minutos.

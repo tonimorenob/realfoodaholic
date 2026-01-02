@@ -6,35 +6,22 @@ thumbnail: /uploads/2021/01/tofu-agridulce.webp
 categories:
   - platos-principales
   - recetas-veganas
-ingredientes: >-
-  Marinado tofu:
-
-
+ingredientes: |
+  
+Marinado tofu:
   400 g de tofu firme
-
   1/2 pimiento rojo
-
   1/2 pimiento verde
-
   1 cebolla pequeña
-
   2 rodajas de piña en su jugo
-
   Harina de garbanzo o maicena
-
   Aceite de oliva virgen
-
-  Salsa agridulce:
-
-
+  
+Salsa agridulce:
   300 ml de jugo de piña natural sin azúcar (todo el que hay en una lata de piña grande)
-
   20 g de dulce de dátiles (o el edulcorante que empleéis)
-
   20 g de tomate concentrado
-
   5 g de salsa de soja
-
   Un chorro de vinagre
 preparacion: >
   Empezaremos escurriendo el tofu y cortándolo en dados. Los pondremos en un bol
