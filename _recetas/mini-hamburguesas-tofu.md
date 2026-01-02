@@ -14,12 +14,6 @@ ingredientes: |
   1 Cda de harina de garbanzo
   Cilantro fresco
   Sal
-  
-Salsa de yogur:
-  100 g de yogur natural
-  Cilantro fresco
-  Zumo de media lima
-  Sal
 preparacion: |
   Escurrimos el tofu presionándolo sobre un poco de papel de cocina y lo desmigamos con las manos en un bol.
   Pelamos y rallamos la zanahoria, picamos los ajos tiernos y los añadimos al bol.
@@ -27,7 +21,8 @@ preparacion: |
   Calentamos una sartén antiadherente engrasada.
   Formamos bolitas con la masa y las chafamos un poco, y las vamos cocinando en la sartén, unos cuantos minutos por cada lado con la sartén tapada. Con estas cantidades me han salido 5.
   Hacemos la salsa picando el cilantro y mezclándolo con el resto de ingredientes.
-  Servimos nuestras mini hamburguesas de tofu y zanahoria con la salsa por encima.---
+  Servimos nuestras mini hamburguesas de tofu y zanahoria con la salsa por encima.
+---
 
 Si os gusta el tofu y estáis buscando una opción de cena rápida, saludable y rica tenéis que probar estas mini hamburguesas de tofu y zanahoria con salsa de yogur.
 

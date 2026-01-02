@@ -15,17 +15,13 @@ ingredientes: |
   Ajo en polvo
   Comino en polvo
   Sal
-  
-Salsa de pimiento asado:
-  1/2 pimiento asado
-  1 cucharada de queso fresco batido o yogur natural
-  Sal
 preparacion: |
   Cortamos la berenjena, el pimiento y la cebolla (ya cocinados) en trocitos muy pequeños; mejor con cuchillo, ya que con la picadora se harían puré y sacarían toda su agua.
   Las metemos en un bol y añadimos el resto de ingredientes excepto la harina, ya que la iremos incorporando poco a poco para ir viendo la consistencia que tiene la masa.
   Cuando quede una masa consistente pero no seca dejaremos de añadir harina; tiene que ser algo pastosa, no deberemos poder formar las hamburguesas con la mano, sino que la pondremos en la sartén a cucharadas.
   Antes de cocinar nuestra hamburguesa de berenjena es preferible dejarla reposar una media hora en la nevera.
-  Para hacer la salsa, trituramos todos los ingredientes con la batidora.---
+  Para hacer la salsa, trituramos todos los ingredientes con la batidora.
+---
 
 La combinación de sabores de esta hamburguesa de berenjena ha quedado brutal, y la he acompañado de unas judías con ajo en polvo y parmesano cocinadas en la airfryer a modo de patatas fritas.
 

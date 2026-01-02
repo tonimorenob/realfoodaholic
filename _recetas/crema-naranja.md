@@ -7,12 +7,13 @@ categories:
   - desayunos-2
   - postres
   - snacks-2
-ingredientes: |
+ingredientes: |-
   200 g de mascarpone
   20 g de leche en polvo
   40 g de leche o bebida vegetal
   Granola
   Crema de naranja
+  CREMA DE NARANJA
   1 naranja
   1 huevo
   Una cdta de maicena

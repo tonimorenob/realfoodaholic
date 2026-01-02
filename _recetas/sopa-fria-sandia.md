@@ -7,15 +7,6 @@ categories:
   - platos-principales
   - recetas-veganas
   - sopas-y-cremas
-ingredientes: |
-  600 g de sandía
-  200 g de tomate
-  100 g de pepino sin piel
-  1 trozo de jengibre fresco
-  Sal
-preparacion: |
-  Ponemos todos los ingredientes en el vaso de la batidora y trituramos.
-  Servimos nuestra sopa fría de sandía con trocitos de lo que más nos guste: pepino, sandía, tomate, queso feta... ¡Imaginación al poder!
 ---
 
 Verano, calor... Y ¿qué mejor que una sopa fresquita de sandía?

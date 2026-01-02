@@ -7,24 +7,42 @@ categories:
   - ensaladas
   - platos-principales
   - salsas
-ingredientes: |
+ingredientes: >-
+  Salsa rosa realfooder:
+
+
   1 huevo hervido
+
   100 g de yogur o queso fresco
+
   2 cucharaditas de pasta de tomate concentrado
+
   Un chorrito de vinagre de manzana
+
   Un minichorrito de Brandy (esto es opcional y menos realfooder, pero tengo que reconocer que le da el toque)
+
   Sal
-  
-Cocktail:
+
+  Cocktail:
+
+
   Lechuga iceberg
+
   Caqui persimón
+
   Aguacate
+
   Gambas peladas y hervidas
+
   Salsa cocktail realfooder
-preparacion: |
-  Ponemos todos los ingredientes de la salsa en el vaso de la batidora y trituramos. Reservamos en la nevera hasta que vayamos a usarla.
+preparacion: >
+  Ponemos todos los ingredientes de la salsa en el vaso de la batidora y
+  trituramos. Reservamos en la nevera hasta que vayamos a usarla.
+
   Preparamos el cocktail de gambas: primero ponemos una base de lechuga picada en juliana muy fina, después persimón y aguacate cortados en cubitos, unas cuantas gambas en cada vaso y terminamos con la salsa rosa por encima, y un poco de perejil picado.
-  Servimos al momento.---
+
+  Servimos al momento.
+---
 
 El que no haya comido cocktail de gambas en algunas fiestas de Navidad se su vida (o en todas) que tire la primera piedra. Y si la tira no me lo creo, ea.
 

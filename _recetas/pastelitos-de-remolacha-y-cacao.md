@@ -17,10 +17,6 @@ ingredientes: |
   1/2 cdta de bicarbonato
   Zumo de medio limón
   Pizca de sal
-  
-Para el frosting:
-  Un poquito de jugo de remolacha
-  150 g de mascarpone
 preparacion: |
   Precalentamos el horno a 180º con calor arriba y abajo.
   Metemos en la picadora la remolacha a trozos, los huevos, los dátiles sin hueso, el cacao en polvo, el zumo de limón y la sal y trituramos bien.
@@ -32,7 +28,8 @@ preparacion: |
   Mezclamos el mascarpone con el jugo de remolacha hasta que tenga el tono rosa que nos guste. Podemos añadir edulcorante al gusto o esencia de vainilla si lo deseamos.
   Una vez fríos, desmoldamos los pastelitos y los abrimos por la mitad para rellenarlos con el frosting.
   Cubrimos también la parte superior y esparcimos bien para que quede homogéneo.
-  Dejamos enfriar en la nevera para que se endurezca ligeramente y servimos nuestros pastelitos de remolacha y cacao.---
+  Dejamos enfriar en la nevera para que se endurezca ligeramente y servimos nuestros pastelitos de remolacha y cacao.
+---
 
 Estos pastelitos de remolacha y cacao tan cuquis son una versión de la tarta de remolacha que tengo en mi perfil de Instagram pero utilizando cacao intenso y haciendo pastelitos individuales.
 

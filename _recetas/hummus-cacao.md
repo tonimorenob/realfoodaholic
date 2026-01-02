@@ -7,16 +7,6 @@ categories:
   - desayunos-2
   - recetas-veganas
   - salsas
-ingredientes: |
-  200 g de garbanzos cocidos
-  1 Cda de tahini
-  1 Cda de cacao puro en polvo
-  2 Cdas de eritritol
-  Agua
-preparacion: |
-  Metemos todos los ingredientes excepto el agua en el vaso de la batidora y trituramos.
-  Ajustamos la textura con la cantidad de agua que creamos necesaria y seguimos triturando hasta obtener la consistencia deseada.
-  Servimos nuestro hummus de cacao con trozos de fruta o sobre una tostada.
 ---
 
 ¿Habéis probado alguna vez un hummus dulce? ¿No? Pues ya tardáis en probar este hummus de cacao.

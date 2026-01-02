@@ -12,10 +12,6 @@ preparacion: |
   Cuando la fruta esté congelada (podéis hacer las combinaciones que queráis), la trituramos con una batidora de vaso o procesador de alimentos potente, añadiendo los toppings que más os gusten. Si añadís pepitas de chocolate o algún topping que se tenga que mantener entero no lo agreguéis ahora, sino al helado una vez triturado.
   Si queda demasiado espeso podemos añadir agua, o bebida vegetal o yogur si queremos hacerlo más cremoso.
   Servimos nuestro helado de fruta al momento y disfrutamos.
-ingredientes: |
-  Fruta fresca o congelada al gusto: frutos rojos, plátano, mango, kiwi...
-  Opcional: hierbabuena, albahaca, chips de chocolate,, endulzante...
-  Opcional: yogur, queso fresco batido, leche o bebida vegetal...
 ---
 
 Cuando sepáis los ingredientes de este helado de fruta no os lo vais a creer: mango, plátano y hierbabuena, todo congelado previamente, ¡nada más!

@@ -14,12 +14,6 @@ ingredientes: |
   1/2 cebolla morada
   Un puñado de maíz mote (grano grande seco)
   1 boniato pequeño
-  
-Leche de tigre:
-  Zumo de 1 lima
-  Zumo de 1 limón
-  1 cdta de ají en polvo
-  1 puñado de cilantro fresco
 preparacion: |
   Cocemos el maíz durante unos 45 minutos. Si lo dejamos en remojo la noche antes se cocinará algo más rápido.
   Mientras tanto, cocinamos el boniato en el microondas o al horno hasta que esté blando.
@@ -28,7 +22,8 @@ preparacion: |
   Añadimos el maíz cocinado.
   Ponemos todos los ingredientes de la leche de tigre en el vaso de la batidora y trituramos bien con una pizca de sal.
   Echamos la leche de tigre sobre el resto de ingredientes, mezclamos bien y dejamos reposar un rato en la nevera.
-  Servimos nuestro ceviche de atún con unas rodajas de boniato.---
+  Servimos nuestro ceviche de atún con unas rodajas de boniato.
+---
 
 Todo lo que implique pescado crudo (sobre todo atún y salmón) me encanta, y este ceviche de atún no podía ser menos.
 

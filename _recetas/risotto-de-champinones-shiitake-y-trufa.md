@@ -15,16 +15,5 @@ preparacion: |
   Vamos añadiendo caldo con el cucharón a medida que lo absorba hasta que el arroz esté en su punto (16-20 mins).
   Cuando el arroz esté cocinado y la consistencia sea cremosa (sin exceso de caldo) añadimos el queso rallado y un poco más de mantequilla y mezclamos bien.
   Servimos en seguida con un poco de queso y trufa rallados por encima.
-ingredientes: |
-  240 g arroz para risotto, en mi caso Arborio (80 g por persona)
-  Caldo (600-800 ml)
-  100 ml de vino blanco
-  1 cebolla pequeña picada
-  1 diente de ajo picado
-  150 g de champiñones
-  6 setas shiitake deshidratadas
-  2 trufas
-  Queso Parmesano o Grana Padano rallado
-  Mantequilla
 ---
 

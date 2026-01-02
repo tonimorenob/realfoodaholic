@@ -16,16 +16,7 @@ ingredientes: |
   AOVE
   Salsa de soja
   Maicena
-  
-Salsa teriyaki:
-  1 diente de ajo
-  1 trozo de jengibre fresco
-  80 g de jugo de piña (el de una lata pequeña de piña de Mercadona)
-  1 Cda de vinagre de arroz o de manzana
-  1 Cda de mirin
-  80 g de salsa de soja
-  1 cdta colmada de maicena
-  Agua---
+---
 
 Soy muy fan de la salsa Teriyaki, pero las que venden llevan bastante azúcar y otras porquerías varias y la verdad es que nunca las compro.
 

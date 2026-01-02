@@ -6,25 +6,43 @@ thumbnail: /uploads/2021/02/IMG_20210222_182317.webp
 categories:
   - platos-principales
   - recetas-veganas
-ingredientes: |
+ingredientes: >-
+  Pulled pork vegano:
+
+
   1 piel de plátano ecológico
+
   Especias al gusto: pimentón ahumado, comino en polvo, orégano, cebolla y ajo en polvo
+
   1 Cda de salsa de soja
+
   1 cdta de tomate concentrado
+
   Sal
+
   Agua
-  
-Panecillo (opcional, no vegano):
+
+  Panecillo (opcional, no vegano):
+
+
   1 Cda rasa de leche en polvo
+
   1 huevo
+
   Una pizca de levadura en polvo
-preparacion: |
+preparacion: >
   Lavamos muy bien el plátano y lo pelamos.
+
   Con la ayuda de una cuchara, quitamos la capa blanca de la parte interior.
+
   Una vez quitada, y con la ayuda de un tenedor, deshilachamos la piel rascándola con las púas desde el centro hasta los extremos, longitudinalmente (siguiendo la dirección de las fibras que la forman). Debemos conseguir tiras muy finitas y largas.
+
   Ponemos las tiras en una sartén junto con el resto de ingredientes excepto el agua, ya que la iremos añadiendo poco a poco a medida que se cocine para que se forme la salsa y no quede demasiado seco. Vamos removiendo de tanto en cuando.
+
   Mientras tanto, mezclamos los ingredientes del panecillo y ponemos la mezcla en un recipiente redondo apto para microondas. Cocinamos a máxima potencia durante unos 2 minutos o 2 minutos y medio. Al sacarlo lo dejamos enfriar unos minutos fuera del recipiente.
-  Después de unos 8-10 minutos la piel del plátano debería haberse reblandecido un poco, por lo que cuando la consistencia de la salsa sea la deseada podemos servir nuestro pulled pork vegano con el panecillo, un poco de aguacate y cilantro fresco.---
+
+  Después de unos 8-10 minutos la piel del plátano debería haberse reblandecido un poco, por lo que cuando la consistencia de la salsa sea la deseada podemos servir nuestro pulled pork vegano con el panecillo, un poco de aguacate y cilantro fresco.
+---
 
 Sí, habéis leído bien: piel de plátano. Sí, se puede comer. Y no, no sabe a plátano. Parece ser que, además, tiene bastantes propiedades, entre ellas gran cantidad de fibra, vitaminas y minerales, así que hoy he decidido darle una oportunidad y hacer con ella un pulled pork vegano. Recetón de aprovechamiento en toda regla, señores.
 

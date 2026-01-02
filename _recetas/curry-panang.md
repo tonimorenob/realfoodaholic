@@ -17,26 +17,14 @@ ingredientes: |
   1 cdta de comino en polvo
   Agua o caldo
   Sal
-  
-Para la pasta de curry rojo:
-  3 dientes de ajo
-  Un buen trozo de jengibre fresco
-  Un tallo de hierba-limón
-  1 cdta de arroz crudo
-  1 cdta de comino en polvo
-  polvo
-  Chiles rojos secos (al gusto)
-  1 cdta de cilantro en
-  1/2 cebolla
-  Ralladura de una lima o limón
-  Sal
 preparacion: |
   Picamos bien todos los ingredientes de la pasta de curry en la picadora. Si usamos pasta de curry rojo ya hecha omitiremos este paso.
   Cortamos en trozos la cebolla, los pimientos y las judías. Yo los cociné un poco al vapor antes en el microondas, para que se reblandecieran un poco.
   Ponemos en una sartén o wok la pasta de curry, el comino, la cúrcuma y cocinamos unos minutos.
   Añadimos el pollo cortado en cubos, cocinamos otro minuto para que se marque un poco y añadimos las verduras, la leche de coco, la crema de cacahuete y un poco de agua.
   Mezclamos todo y cocinamos durante unos 20 minutos, añadiendo agua si fuera necesario para que no quede muy pastoso.
-  Servimos nuestro curry Panang de cacahuete con un poco de arroz o con lo que más nos guste.---
+  Servimos nuestro curry Panang de cacahuete con un poco de arroz o con lo que más nos guste.
+---
 
 El otro día fui a Infineathai, un restaurante tailandés muy top de Palma, y probé su curry Panang de cacahuete. Y se convirtió en uno de los curris más maravillosos que he comido nunca. Así que me dije, ¿y si intento hacer uno en casa?
 

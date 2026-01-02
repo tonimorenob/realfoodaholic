@@ -6,21 +6,36 @@ thumbnail: /uploads/2021/03/IMG20210323160036-01-scaled.webp
 categories:
   - desayunos-2
   - recetas-veganas
-ingredientes: |
+ingredientes: >-
+  Masa madre exprés:
+
+
   100 g de harina integral (en mi caso de xeixa)
+
   100 g de agua
+
   5 g de levadura fresca
-  
-Pan moreno:
+
+  Pan moreno:
+
+
   Masa madre exprés
+
   500 g de harina de sopas (o 400 g de harina de trigo integral y 100 g de harina blanca)
+
   300 g de agua
+
   50 g de zumo de naranja natural
-  
-Alioli:
+
+  Alioli:
+
+
   1 huevo
+
   1 diente de ajo (sin el corazón)
+
   Aceite de oliva virgen
+
   Sal
 preparacion: >-
   Masa madre

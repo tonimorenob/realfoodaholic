@@ -5,17 +5,29 @@ date: 2021-01-18
 thumbnail: /uploads/2021/01/bao-buns-pulled-pork-cebolla-caramelizada.webp
 categories:
   - platos-principales
-ingredientes: |
+ingredientes: >-
+  Pulled pork:
+
+
   Pieza de cabeza de lomo de cerdo
+
   Marinado: mezcla de ajo en polvo, cebolla en polvo, orégano seco, pimentón, -pasta de tomate concentrado, salsa de soja, aceite, sal y un poco de agua
-  
-Bao buns:
+
+  Bao buns:
+
+
   140 g de harina de trigo integral
+
   10 g de levadura fresca
+
   1/4 de cucharadita de levadura en polvo tipo Royal
+
   30 ml de agua tibia
+
   60 ml de leche o bebida vegetal
+
   15 ml de aceite de oliva virgen
+
   Una pizca de sal
 preparacion: >-
   Pulled pork

@@ -12,19 +12,12 @@ ingredientes: |
   Col lombarda (aproximadamente 1/4/)
   1 rama de apio
   1 cebolla pequeña
-  
-Mayonesa de huevo duro:
-  1 huevo duro
-  1 Cda de yogur natural
-  Zumo de 1/2 lima
-  1/2 cdta de mostaza de Dijon
-  1 dátil Medjool
-  Agua
 preparacion: |
   Cortamos la lombarda, la zanahoria (previamente pelada), el apio y la cebolla en juliana muy fina.
   Preparamos la mayonesa poniendo todos los ingredientes en el vaso de la batidora y triturando bien, ajustando la textura con un poco de agua.
   Mezclamos las verduras cortadas con la mayonesa y metemos todo en un recipiente hermético en la nevera.
-  Servimos nuestra coleslaw de lombarda como acompañamiento de lo que más nos guste.---
+  Servimos nuestra coleslaw de lombarda como acompañamiento de lo que más nos guste.
+---
 
 La coleslaw (o ensalada de col) es una de mis ensaladas favoritas. Hoy he hecho una, aunque le he cambiado algunos ingredientes, y ha salido esta coleslaw de lombarda que ha quedado pero que muy rica.
 
