@@ -10,7 +10,7 @@ categories:
 ingredientes: |-
   Falsa bechamel de coliflor:
 
-  1 coliflor pequeña (solo las flores)
+  1 coliflor pequeña (solo las flores)_
   1 cebolla
   Nuez moscada
   Sal
