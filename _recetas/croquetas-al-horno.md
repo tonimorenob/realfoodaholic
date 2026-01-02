@@ -1,20 +1,45 @@
 ---
 layout: receta
-title: "CROQUETAS AL HORNO CON FALSA BECHAMEL DE COLIFLOR"
+title: CROQUETAS AL HORNO CON FALSA BECHAMEL DE COLIFLOR
 date: 2021-03-12
-thumbnail: "/uploads/2021/03/IMG20210312095005-01-scaled.webp"
+thumbnail: /uploads/2021/03/IMG20210312095005-01-scaled.webp
 categories:
   - platos-principales
   - recetas-veganas
   - salsas
-preparacion: |
-  Cocinamos la coliflor y la cebolla, en mi caso al microondas (o al vapor) hasta que estén blanditas. Añadimos sal, nuez moscada y trituramos bien hasta que no queden grumos.
+ingredientes: |-
+  Falsa bechamel de coliflor:
+
+  1 coliflor pequeña (solo las flores)
+  1 cebolla
+  Nuez moscada
+  Sal
+  Croquetas de pollo asado:
+
+  1/2 pechuga de pollo asada y desmenuzada
+  Corn flakes sin azúcar (copos de maíz)
+  Croquetas de gírgolas y queso de cabra:
+
+  4 gírgolas grandes
+  30-40 g de queso de rulo de cabra (sin piel)
+  Corn flakes sin azúcar (copos de maíz)
+preparacion: >
+  Cocinamos la coliflor y la cebolla, en mi caso al microondas (o al vapor)
+  hasta que estén blanditas. Añadimos sal, nuez moscada y trituramos bien hasta
+  que no queden grumos.
+
   A la mitad de la bechamel le añadimos el pollo asado desmenuzado, y rectificamos de sal si fuera necesario.
+
   Picamos las gírgolas, las salteamos en una sartén con una pizca de sal hasta que estén blandas, añadimos el queso de cabra desmenuzado hasta que se derrita ligeramente y mezclamos todo con la otra mitad de la bechamel.
+
   Si queréis hacerlas solamente de un relleno bastará con que dobléis las cantidades del relleno. Guardamos ambas mezclas en la nevera durante un mínimo de 4 horas; cuanto más tiempo estén más firme quedarán.
+
   Cuando vayamos a hacer las croquetas, trituramos corn flakes con la picadora hasta que queden hechos casi polvo.
+
   Vamos dando la forma deseada a las croquetas con cada masa, rebozándolas en los corn flakes y aplastando un poco con la mano para que se adhieran bien.
+
   Vamos poniendo las croquetas en una bandeja de horno con papel vegetal y, cuando estén todas, llevamos al horno durante unos 10 o 15 minutos a 220º, hasta que estén doraditas por fuera.
+
   Servimos nuestras croquetas al horno recién hechas o, como a mi me gustan, una vez frías.
 ---
 
