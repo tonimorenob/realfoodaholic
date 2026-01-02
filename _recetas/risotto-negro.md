@@ -15,5 +15,16 @@ preparacion: |
   Vamos añadiendo caldo con el cucharón a medida que lo vaya absorbiendo hasta que el arroz esté en su punto (16-20 mins).
   Cuando el arroz esté cocinado y la consistencia sea cremosa (sin exceso de caldo) añadimos las gambas ya cocinadas y queso rallado al gusto, y mezclamos bien.
   Dejamos reposar un par de minutos y servimos nuestro risotto negro.
+ingredientes: |
+  160 g arroz para risotto, en mi caso Arborio (80 g por persona)
+  Caldo de pescado (unos 500 ml)
+  80 ml de vino blanco
+  1/2 cebolla
+  1 diente de ajo
+  125 g de gambas peladas
+  200 g de rejos de potón cocidos congelados (previamente descongelados)
+  Queso Parmesano o Grana Padano rallado
+  2 sobres de tinta congelada (8 g)
+  AOVE
 ---
 

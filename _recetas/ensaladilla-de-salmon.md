@@ -12,6 +12,14 @@ ingredientes: |
   1 zanahoria
   1 puñado de judías redondas
   Una lata de salmón al natural
+  
+Mayonesa de huevo duro:
+  1 huevo duro
+  1 Cda de yogur natural
+  Zumo de limón
+  1/2 cdta de mostaza de Dijon
+  Agua
+  Sal
 preparacion: |
   Pelamos las patatas y las zanahorias y las cortamos en brunoise fina, o lo que es lo mismo, en cubos pequeñitos.
   Cortamos las judías en trocitos del mismo tamaño.
@@ -19,8 +27,7 @@ preparacion: |
   Cada ingrediente que vayamos sacando del agua una vez cocinado lo pondremos en un bol con agua helada para que se mantenga crujiente y no se reblandezca, y una vez se hayan enfriado todos los colamos y dejamos secar unos minutos.
   Mientras, ponemos todos los ingredientes de la mayonesa excepto el agua en el vaso de la batidora y trituramos bien. Añadimos el agua necesaria para obtener una textura de mayonesa ligera.
   Mezclamos las verduras hervidas con la mayonesa y añadimos también el salmón bien desmigado, y mezclamos bien.
-  Dejamos enfriar en la nevera y servimos nuestra ensaladilla con una yema de huevo hervido rallada por encima.
----
+  Dejamos enfriar en la nevera y servimos nuestra ensaladilla con una yema de huevo hervido rallada por encima.---
 
 Hace semanas que no publico nada, y es que entre una cosa y otra no he parado y, cuando lo he hecho, solamente tenía ganas de no hacer nada. Hoy por fin he decidido que ya era momento de volver a la carga, y me he animado con esta ensaladilla de salmón tan top, ideal para el calorcito.
 

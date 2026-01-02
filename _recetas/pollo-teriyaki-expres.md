@@ -9,13 +9,21 @@ ingredientes: |
   2 pechugas de pollo
   Cebolla tierna (para decorar)
   Arroz hervido
+  
+Salsa teriyaki exprés:
+  120 g de jugo de piña
+  1 Cda de vinagre de arroz o de manzana
+  1 Cda de mirin
+  70 g de salsa de soja
+  Jengibre y ajo en polvo
+  1 cdta colmada de maicena
+  Endulzante al gusto (opcional)
 preparacion: |
   Mezclamos todos los ingredientes de la salsa en un cazo, excepto la maicena, y calentamos unos minutos.
   Dejamos enfriar, metemos las pechugas en un recipiente y les echamos la salsa por encima para marinarlas.
   Las dejamos un mínimo de media hora en la nevera, y a continuación las sacamos de la salsa, retirando el exceso, y cocinamos en una sartén a fuego medio-bajo. Es importante que el marinado no se queme, por lo que en caso de que empiece a caramelizar podemos usar un poco de agua para diluirlo.
   Mientras tanto ponemos la salsa restante en el cazo de nuevo, y añadimos la maicena diluida en un poquito de agua. Removemos bien hasta que espese.
-  Servimos nuestro pollo teriyaki sobre una cama de arroz blanco, con la salsa por encima y un poco de cebolla tierna picada.
----
+  Servimos nuestro pollo teriyaki sobre una cama de arroz blanco, con la salsa por encima y un poco de cebolla tierna picada.---
 
 Supongo que ya os habéis dado cuenta de lo fan que soy de las salsas (y todas las recetas en general) de la cocina asiática, ¿verdad? Pues hoy me ha apetecido una salsita rica, y aprovechando que tenía dos pechugas sin destino concreto, he hecho este pollo teriyaki tan resultón y fácil fácil.
 

@@ -7,6 +7,19 @@ categories:
   - recetas-veganas
   - salsas
   - snacks
+ingredientes: |
+  200 g de garbanzos cocidos
+  1 aguacate pequeño
+  1 diente de ajo (sin el corazón)
+  Aceite de oliva virgen extra
+  1 Cda de tahín
+  Cilantro fresco
+  Zumo de 1/2 lima
+  Agua
+preparacion: |
+  Metemos todos los ingredientes excepto el agua en el vaso de la batidora y trituramos.
+  Ajustamos la textura con la cantidad de agua que sea necesaria y seguimos triturando hasta obtener la consistencia deseada.
+  Servimos nuestro hummus de aguacate y cilantro en unas tostadas, acompañado de crudités de verduras o como más nos guste.
 ---
 
 Hoy os traigo un hummus de garbanzos con una combinación de sabores que me encanta: hummus de aguacate y cilantro.

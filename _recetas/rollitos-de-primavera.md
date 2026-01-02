@@ -15,6 +15,14 @@ ingredientes: |
   Agua
   Aceite de oliva virgen
   Sal
+  
+Salsa agridulce:
+  El jugo de una lata pequeña de piña en su jugo (unos 80 g)
+  1 cda de tomate concentrado
+  Un chorro de salsa de soja
+  Un chorrito de vinagre
+  Endulzante al gusto (en mi caso eritritol)
+  1 cdta rasa de maicena
 preparacion: |
   Precalentamos el horno a 200º con calor arriba y abajo.
   Ponemos a hidratar en agua la proteína de guisante texturizada.
@@ -28,8 +36,7 @@ preparacion: |
   Ponemos los rollitos en una fuente metálica de horno con papel vegetal, les echamos un poco de aceite en spray (o con un pincel) y las llevamos al horno durante 15 o 20 minutos, hasta que estén crujientes y un poco doraditos.
   Mientras, ponemos todos los ingredientes de la salsa excepto la maicena en un cazo y llevamos a ebullición.
   Disolvemos bien la maicena en un poquito de agua y la añadimos al cazo, mezclando bien con unas varillas durante unos 30 segundos para que la salsa espese. Al enfriarse espesará más, por lo que no hay que dejarla espesar en exceso. Reservamos mientras se enfría.
-  Servimos nuestros rollitos de primavera veganos junto con la salsa agridulce.
----
+  Servimos nuestros rollitos de primavera veganos junto con la salsa agridulce.---
 
 Llevaba tiempo queriendo hacer rollitos de primavera, pero nunca me acuerdo de comprar los ingredientes necesarios.
 

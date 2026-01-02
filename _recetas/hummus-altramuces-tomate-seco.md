@@ -7,6 +7,21 @@ categories:
   - recetas-veganas
   - salsas
   - snacks
+ingredientes: |
+  100 g de altramuces
+  5 tomates secos deshidratados
+  1 cda de tahín
+  1 diente de ajo
+  Zumo de limón
+  Comino
+  Aceite de oliva virgen extra
+  Agua (la que hayamos usado para hidratar los tomates)
+preparacion: |
+  Hidratamos los tomates en agua hirviendo durante unos 20 minutos, o hasta que estén blandos.
+  Pelamos los altramuces.
+  Metemos todos los ingredientes excepto el agua en el vaso de la batidora y trituramos.
+  Ajustamos la textura con la cantidad de agua que sea necesaria y seguimos triturando hasta obtener la consistencia deseada.
+  Servimos nuestro hummus de altramuces y tomate seco con picos o tostadas, o acompañado de crudités de verduras o como más nos guste.
 ---
 
 He hecho hummus de garbanzos, de alubias, de lentejas... pero no se me había ocurrido hacer un hummus de altramuces hasta hoy.

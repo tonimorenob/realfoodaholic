@@ -15,6 +15,11 @@ ingredientes: |
   Salsa de soja
   Aceite de sésamo
   1 cdta colmada de maicena
+  
+Para la salsa:
+  Una parte de salsa de soja
+  Una parte de vinagre de arroz
+  1/4 parte de aceite de sésamo
 preparacion: |
   Si las obleas están congeladas, las sacamos del congelador con un mínimo de 30 minutos de antelación para que les dé tiempo a descongelarse.
   Mientras tanto, hidratamos las setas en agua templada durante unos 15-20 minutos.
@@ -23,8 +28,7 @@ preparacion: |
   Ponemos una sartén antiadherente con un poco de aceite a fuego alto y, cuando esté caliente, añadimos las gyozas (poniéndolas de pie).
   Cuando se empiece a dorar su base, echamos agua (aproximadamente 1/2 vaso), bajamos el fuego a medio-bajo y tapamos la sartén. De esta manera las gyozas se cocinarán con el vapor del agua.
   Mientras se cocinan mezclamos en un bol todos los ingredientes de la salsa, que usaremos para mojar nuestras gyozas.
-  Después de unos 5-10 minutos nuestras gyozas de gambas, shiitake y puerro estarán listas, por lo que podemos servirlas junto con nuestra salsa.
----
+  Después de unos 5-10 minutos nuestras gyozas de gambas, shiitake y puerro estarán listas, por lo que podemos servirlas junto con nuestra salsa.---
 
 El otro día fui a mi supermercado asiático favorito en Palma después de bastante tiempo, ya que no me pilla muy cerca de casa, y entre otras (muchas) cosas compré obleas para hacer gyozas caseras.
 

@@ -13,6 +13,11 @@ preparacion: |
   Si nos queda demasiado pastoso podemos añadir más leche y mezclar bien de nuevo ya fuera del fuego.
   Cortamos la manzana en cubitos y la salteamos en una sartén con un poco de canela y jengibre en polvo.
   Servimos nuestras gachas de avena calientes con fruta por encima, y añadiendo cualquier otro topping que nos apetezca: crema de cacahuete, chocolate, frutos secos... ¡lo que se nos ocurra!
+ingredientes: |
+  50 g de copos de avena
+  150 g de leche o bebida vegetal
+  100 g de claras de huevo
+  Opcional: canela, endulzante, cacao en polvo...
 ---
 
 Plato poco fotogénico donde los haya, reconozcámoslo, pero estas gachas de avena están muy ricas y son un desayuno muy completo, ¡así que hay que compartirlas!Son gachas de avena normales pero, además, llevan claras de huevo, por eso tienen más proteína. ¡Son uno de mis básicos de desayuno sin duda!

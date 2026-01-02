@@ -7,32 +7,25 @@ categories:
   - desayunos-2
   - platos-principales
   - recetas-veganas
-ingredientes: |-
+ingredientes: |
   150 g de tofu sedoso
   1 cda de maicena
   1 cda de avena molida o harina de avena
   Cebolla en polvo
   1/2 cdta de levadura en polvo
   Sal
-  Relleno:
-
+  
+Relleno:
   Un puñado de espinacas
   1/2 aguacate
   1 tomate
-preparacion: >
-  Metemos todos los ingredientes de la tortilla en el vaso de la batidora y
-  trituramos bien.
-
+preparacion: |
+  Metemos todos los ingredientes de la tortilla en el vaso de la batidora y trituramos bien.
   Ponemos al fuego una sartén antiadherente engrasada y, una vez caliente, añadimos la masa y la esparcimos bien con una espátula por toda la superficie de la sartén.
-
   Cocinamos durante unos 30 segundos a fuego alto, bajamos el fuego a medio-bajo, añadimos un puñado de espinacas por toda la parte superior y tapamos la sartén.
-
   Cocinamos durante un par de minutos hasta que la tortilla esté cuajada y la parte de debajo esté un poco dorada.
-
   Añadimos el tomate y el aguacate en rodajas, doblamos por la mitad la tortilla y la ponemos en un plato.
-
-  Servimos nuestra tortilla con un poco de ensalada o con lo que más nos guste.
----
+  Servimos nuestra tortilla con un poco de ensalada o con lo que más nos guste.---
 
 El otro día os publiqué una receta de tortitas de tofu, y hoy os traigo una versión salada parecida: tortilla francesa de tofu.
 

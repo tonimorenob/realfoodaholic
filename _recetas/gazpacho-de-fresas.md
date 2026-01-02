@@ -7,6 +7,21 @@ categories:
   - platos-principales
   - recetas-veganas
   - sopas-y-cremas
+ingredientes: |
+  400 g de fresas
+  250 g de tomate
+  100 g de pepino sin piel
+  100 g de pimiento verde
+  1/2 cebolla morada
+  10 g de aceite de oliva virgen extra
+  10 g de vinagre de Jerez (o de Módena)
+  Albahaca fresca
+  Agua (unos 100-150 ml)
+  Sal
+preparacion: |
+  Ponemos todos los ingredientes en el vaso de la batidora (excepto la mitad del agua) y trituramos.
+  Añadimos más agua mientras seguimos triturando hasta obtener la textura deseada, y rectificamos de sal si procede.
+  Servimos nuestro gazpacho de fresas con lo que más nos guste: crostones, trozos de pepino o fresas, queso feta... ¡imaginación al poder!
 ---
 
 Soy una super fan del gazpacho, sobre todo en verano, y me encanta añadirles fruta además de hortalizas. Mis favoritos, el de mango (tenéis la receta aquí) y este gazpacho de fresas que está tremendo.

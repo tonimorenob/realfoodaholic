@@ -5,8 +5,8 @@ date: 2021-06-23
 thumbnail: /uploads/2021/06/wp-1624362138022-scaled.webp
 categories:
   - platos-principales
-ingredientes: |-
-  300 – 400 g de sepia
+ingredientes: |
+  300 - 400 g de sepia
   1 cebolla
   2 dientes de ajo
   1 hoja de laurel
@@ -17,23 +17,14 @@ ingredientes: |-
   Piñones
   Pimentón dulce
   Sal
-preparacion: >-
-  Laminamos los ajos y los sofreímos un poco en aceite de oliva virgen, junto
-  con la hoja de laurel y las cayenas, hasta que se empiecen a dorar
-  ligeramente.
-
+preparacion: |
+  Laminamos los ajos y los sofreímos un poco en aceite de oliva virgen, junto con la hoja de laurel y las cayenas, hasta que se empiecen a dorar ligeramente.
   Añadimos en ese momento la cebolla bien picada y la sofreímos hasta que esté blandita.
-
   Añadimos después el tomate, previamente rallado, y el pimentón y cocinamos otro par de minutos.
-
   Echamos un buen chorro de vino blanco y dejamos que se evapore ligeramente.
-
   Añadimos las pasas, los piñones y la sepia a trozos, y cubrimos con un poco de agua.
-
   Cocinamos durante unos 20 minutos, hasta que la sepia esté cocinada y la salsa haya espesado.
-
-  Servimos nuestro pica pica con un poco de arroz hervido o como tapa.
----
+  Servimos nuestro pica pica con un poco de arroz hervido o como tapa.---
 
 La sepia me gusta mucho, y aunque normalmente la suelo hacer a la plancha, una de mis maneras favoritas de comerla es como en esta receta de pica pica de sepia.
 
