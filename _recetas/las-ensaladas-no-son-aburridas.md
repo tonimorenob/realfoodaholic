@@ -5,7 +5,7 @@ date: 2021-01-18
 thumbnail: /uploads/2021/01/0001-16127166002_20210128_185110_0000.webp
 categories:
   - platos-principales
-ingredientes: >-
+ingredientes: >
   ¿QUÉ PUEDO ECHARLE A MI ENSALADA?
 
   Para que las ensaladas sean completas y variadas será necesario incluir diferentes grupos de alimentos y combinarlos entre sí; algunos ejemplos de alimentos de cada grupo serían los siguientes:
@@ -38,7 +38,7 @@ ingredientes: >-
   Especias: hierbas secas, ajo o cebolla en polvo, jengibre, pimentón, comino, curry
 
   Aliños: aceite de oliva virgen, vinagre, zumo de naranja o limón, mostaza, yogur, crema de cacahuete, miel cruda, salsa de soja
-
+preparacion: >-
   ¿Qué, os sigue pareciendo que lass ensaladas son aburridas?
 
 
@@ -46,7 +46,6 @@ ingredientes: >-
 
 
   ¿Y a ti cuál es la combinación que más te gusta en una ensalada?
-preparacion: "-"
 ---
 
 
