@@ -39,6 +39,9 @@ collections:
           - { label: "Acompañamientos", value: "acompanamientos" }
           - { label: "Olla lenta", value: "olla-lenta" }
           - { label: "Microondas", value: "microondas" }
+          - { label: "Alimentación saludable", value: "alimentacion-saludable" }
+          - { label: "Comercio local y restauración", value: "comercio-local" }
+          - { label: "Vídeos", value: "videos" }
       - label: "Descripción"
         name: "body"
         widget: "markdown"
