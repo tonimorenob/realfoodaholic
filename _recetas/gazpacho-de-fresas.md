@@ -18,6 +18,10 @@ ingredientes: |
   Albahaca fresca
   Agua (unos 100-150 ml)
   Sal
+preparacion: |
+  Ponemos todos los ingredientes en el vaso de la batidora (excepto la mitad del agua) y trituramos.
+  Añadimos más agua mientras seguimos triturando hasta obtener la textura deseada, y rectificamos de sal si procede.
+  Servimos nuestro gazpacho de fresas con lo que más nos guste: crostones, trozos de pepino o fresas, queso feta... ¡imaginación al poder!
 ---
 
 Soy una super fan del gazpacho, sobre todo en verano, y me encanta añadirles fruta además de hortalizas. Mis favoritos, el de mango (tenéis la receta aquí) y este gazpacho de fresas que está tremendo.

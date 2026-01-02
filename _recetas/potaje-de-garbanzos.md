@@ -17,6 +17,14 @@ ingredientes: |
   Sal
   Agua
   AOVE
+preparacion: |
+  Picamos la cebolla y el ajo y los sofreímos en un poco de aceite de oliva virgen hasta que queden transparentes.
+  Añadimos el pimentón, mezclamos bien y añadimos el tomate.
+  Cocinamos durante 5 o 10 minutos, hasta que se evapore parte del agua del tomate, y añadimos los huevos, previamente picados.
+  Agregamos los garbanzos cocidos, cubrimos con agua (sin excedernos para que el potaje no quede demasiado aguado) y llevamos a ebullición.
+  Cuando hierva bajamos el fuego, desmigamos el bacalao y lo añadimos, y cocinamos unos 10 minutos más.
+  Añadimos por último las espinacas, dejamos que se cocinen un par de minutos  más y retiramos la olla del fuego.
+  Servimos nuestro potaje de garbanzos bien calentito.
 ---
 
 Las legumbres me gustan más en ensaladas o hummus que en potaje, pero si tengo que quedarme con uno es el potaje de garbanzos (en concreto con el de mi madre).

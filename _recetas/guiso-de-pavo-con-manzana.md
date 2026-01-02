@@ -16,6 +16,15 @@ ingredientes: |
   AOVE
   Sal
   Pimienta
+preparacion: |
+  Picamos el diente de ajo y la cebolla y sofreímos en una sartén junto con el tomillo con un poco de aceite de oliva virgen hasta que estén blandos.
+  Pelamos y cortamos las manzanas y las añadimos a la olla.
+  Cocinamos unos minutos y añadimos el pavo.
+  Cocinamos otro par de minutos hasta que la carne coja color y echamos el vino. Esperamos a que reduzca.
+  Cubrimos con un poco de agua (aproximadamente un vaso).
+  Echamos las pasas, sal y pimienta y llevamos a ebullición.
+  Cuando empiece a hervir bajamos el fuego a medio/ bajo y cocinamos durante unos 20-30 minutos, hasta que la salsa se reduzca (la manzana se irá deshaciendo, es normal).
+  Pasado ese tiempo servimos nuestro guiso de pavo con manzana con un poco de puré o lo que más nos guste.
 ---
 
 La carne de pavo es muy saludable, tiene mucha proteína y poca grasa, pero tiene un sabor y una textura que no gustan a todo el mundo. A mí solamente me gustan algunas partes y cocinadas de forma bastante concreta, y este guiso de pavo con manzana es una de ellas.

@@ -12,6 +12,11 @@ ingredientes: |
   1 cebolla
   2 dientes de ajo
   1 rama de romero
+preparacion: |
+  Cortar la cebolla, sofreírla y, cuando esté blandita, añadir los trozos de calabaza y los ajos asados (todo sin la piel) y cubrir con agua.
+  Salpimentar y cocinar a fuego medio durante unos 15-20 minutos para que se mezclen lo sabores.
+  Triturar (retirando el romero y reservando parte del agua para que la crema no quede demasiado clara).
+  Añadir el resto del agua poco a poco hasta obtener la textura deseada.
 ---
 
 Otra de mis cremitas otoñales favoritas es esta, la crema de calabaza y romero, ya que como sabéis soy muy fan de echarle hierbas aromáticas a todo.

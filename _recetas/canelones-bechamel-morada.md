@@ -17,6 +17,16 @@ ingredientes: |
   Cebolla en polvo
   Sal
   AOVE
+preparacion: |
+  Precalentamos el horno a 190º con calor arriba y abajo.
+  Salteamos las espinacas en una sartén con un poco de aceite de oliva virgen hasta que se reblandezcan. Echamos cebolla y ajo en polvo y una pizca de sal.
+  Añadimos la ricotta, mezclamos bien y cocinamos hasta que se evapore el líquido, unos 5 minutos.
+  Rellenamos los canelones con la mezcla de las espinacas. Yo he usado canelones de pasta que no requerían cocinado previo, pero si usáis placas de pasta es posible que requieran hidratación o cocinado, por lo que será necesario seguir las indicaciones del envase.
+  Ponemos una capa fina de bechamel de coliflor en un molde de horno, preferiblemente de cristal.
+  Colocamos los canelones encima, uno al lado del otro.
+  Cubrimos con más bechamel de coliflor y, por último, con queso rallado.
+  Metemos en el horno a media altura durante unos 30 minutos (era el tiempo requerido para que se cocinara la masa de mis canelones) o, en caso de usar masa precocida, hasta que se hayan gratinado.
+  Servimos nuestros canelones recién salidos del horno.
 ---
 
 Lo confieso, soy muy fan de las verduras moradas, rosas o de cualquier color que quede igual de cuqui. Es por eso que el otro día compré una coliflor morada en el mercado, y hoy se me ha ocurrido hacer con ella una bechamel para hacer estos cuqui-canelones.

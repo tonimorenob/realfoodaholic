@@ -16,6 +16,10 @@ ingredientes: |
   10 g de vinagre de Jerez (o de Módena)
   Agua (unos 150 ml)
   Sal
+preparacion: |
+  Ponemos todos los ingredientes en el vaso de la batidora (excepto la mitad del agua) y trituramos.
+  Añadimos agua mientras seguimos triturando hasta obtener la textura deseada, y rectificamos de sal si procede.
+  Servimos nuestro gazpacho de mango con crostones de pan integral o trocitos de los ingredientes empleados (pepino, pimiento, mango...)
 ---
 
 Me encantan los gazpachos, creo que son super refrescantes, y este gazpacho de mango en particular tiene un saborcito dulce que me chifla.

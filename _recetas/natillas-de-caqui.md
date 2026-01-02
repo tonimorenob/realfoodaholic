@@ -10,6 +10,10 @@ ingredientes: |
   1 caqui o persimon
   1 cdta de cacao en polvo
   Opcional: yogur natural
+preparacion: |
+  Trituramos el caqui junto con el cacao y el yogur (en caso de que queramos añadirle) con la batidora hasta obtener la textura deseada.
+  Es preferible dejarlas reposar en la nevera un par de horas antes de consumirlas.
+  Servir nuestras natillas de caqui de postre o como snack.
 ---
 
 Natillas de caqui y cacao, ¡el postre saludable perfecto! Son fáciles de prepara, solo llevan 2 ingredientes y están buenísimas.

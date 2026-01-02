@@ -17,6 +17,10 @@ ingredientes: |
   AOVE
   Sal
   Agua
+preparacion: |
+  Metemos todos los ingredientes excepto el agua en el vaso de la batidora y trituramos.
+  Ajustamos la textura con la cantidad de agua que sea necesaria y seguimos triturando hasta obtener la consistencia deseada.
+  Servir con tostadas, verduras cortadas en bastones o utilizar en bocadillos u otras recetas.
 ---
 
 Hoy os traigo un hummus de alubias blancas y remolacha muy cuqui.
