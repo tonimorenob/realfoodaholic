@@ -54,7 +54,7 @@
                             {% assign ingredientes_lista = page.ingredientes | split: "
 " %}
                             {% for item in ingredientes_lista %}
-                                {% if item != "" %}<li>{{ item }}</li>{% endif %}
+                                {% if item != "" %}<li>{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</li>{% endif %}
                             {% endfor %}
                             </ul>
                         </div>
@@ -65,7 +65,7 @@
                             {% assign preparacion_lista = page.preparacion | split: "
 " %}
                             {% for paso in preparacion_lista %}
-                                {% if paso != "" %}<li>{{ paso }}</li>{% endif %}
+                                {% if paso != "" %}<li>{{ paso | markdownify | remove: '<p>' | remove: '</p>' }}</li>{% endif %}
                             {% endfor %}
                             </ol>
                         </div>
