@@ -8,9 +8,9 @@ layout: null
     "slug": "{{ recipe.slug }}",
     "date": "{{ recipe.date | date: '%Y-%m-%d' }}",
     "categories": {{ recipe.categories | jsonify }},
-    "category_names": {{ recipe.category_names | default: "" | jsonify }},
     "thumbnail": {{ recipe.thumbnail | jsonify }},
-    "excerpt": {{ recipe.excerpt | jsonify }}
+    "excerpt": {{ recipe.excerpt | jsonify }},
+    "ingredientes": {{ recipe.ingredientes | jsonify }}
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}
 ]
