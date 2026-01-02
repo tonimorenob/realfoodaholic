@@ -24,7 +24,8 @@ preparacion: |
   Echamos un buen chorro de vino blanco y dejamos que se evapore ligeramente.
   Añadimos las pasas, los piñones y la sepia a trozos, y cubrimos con un poco de agua.
   Cocinamos durante unos 20 minutos, hasta que la sepia esté cocinada y la salsa haya espesado.
-  Servimos nuestro pica pica con un poco de arroz hervido o como tapa.---
+  Servimos nuestro pica pica con un poco de arroz hervido o como tapa.
+---
 
 La sepia me gusta mucho, y aunque normalmente la suelo hacer a la plancha, una de mis maneras favoritas de comerla es como en esta receta de pica pica de sepia.
 

@@ -25,7 +25,8 @@ Salsa teriyaki:
   1 Cda de mirin
   80 g de salsa de soja
   1 cdta colmada de maicena
-  Agua---
+  Agua
+---
 
 Soy muy fan de la salsa Teriyaki, pero las que venden llevan bastante azúcar y otras porquerías varias y la verdad es que nunca las compro.
 

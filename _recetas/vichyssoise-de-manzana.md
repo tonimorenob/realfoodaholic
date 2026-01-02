@@ -21,7 +21,8 @@ preparacion: |
   Cocinamos hasta que las patatas estén blandas.
   Trituramos todo, añadimos sal, la nata y devolvemos al fuego unos minutos, lo justo para que se integre bien.
   Dejamos que se enfríe un poco y la guardamos en la nevera hasta que esté bien fría.
-  Servimos nuestra vichyssoise de manzana como entrante con una juliana finita de manzana por encima.---
+  Servimos nuestra vichyssoise de manzana como entrante con una juliana finita de manzana por encima.
+---
 
 Últimamente tengo, por un lado, muy pocas ganas de cocinar cosas elaboradas y, por otro, muchas ganas de comer cosas fresquitas, así que pensando en qué sopa fría podía hacer se me ocurrió preparar esta vichyssoise de manzana.
 
