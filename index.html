@@ -210,7 +210,7 @@
             const response = await fetch('/recetas-nuevas.json');
             if (!response.ok) throw new Error('No se pudo cargar el JSON');
             
-            recipes = await response.json();
+            recipes = (await response.json()).filter(r => r.title && r.slug);
             
             // Asegurar que no hay duplicados por slug
             const seen = new Set();
