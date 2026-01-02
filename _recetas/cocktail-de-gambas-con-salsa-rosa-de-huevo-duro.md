@@ -1,15 +1,46 @@
 ---
 layout: receta
-title: "COCKTAIL DE GAMBAS CON SALSA ROSA DE HUEVO DURO"
+title: COCKTAIL DE GAMBAS CON SALSA ROSA DE HUEVO DURO
 date: 2021-01-22
-thumbnail: "/uploads/2021/01/cocktail-gambas.webp"
+thumbnail: /uploads/2021/01/cocktail-gambas.webp
 categories:
   - ensaladas
   - platos-principales
   - salsas
-preparacion: |
-  Ponemos todos los ingredientes de la salsa en el vaso de la batidora y trituramos. Reservamos en la nevera hasta que vayamos a usarla.
+ingredientes: >-
+  Salsa rosa realfooder:
+
+
+  1 huevo hervido
+
+  100 g de yogur o queso fresco
+
+  2 cucharaditas de pasta de tomate concentrado
+
+  Un chorrito de vinagre de manzana
+
+  Un minichorrito de Brandy (esto es opcional y menos realfooder, pero tengo que reconocer que le da el toque)
+
+  Sal
+
+  Cocktail:
+
+
+  Lechuga iceberg
+
+  Caqui persimón
+
+  Aguacate
+
+  Gambas peladas y hervidas
+
+  Salsa cocktail realfooder
+preparacion: >
+  Ponemos todos los ingredientes de la salsa en el vaso de la batidora y
+  trituramos. Reservamos en la nevera hasta que vayamos a usarla.
+
   Preparamos el cocktail de gambas: primero ponemos una base de lechuga picada en juliana muy fina, después persimón y aguacate cortados en cubitos, unas cuantas gambas en cada vaso y terminamos con la salsa rosa por encima, y un poco de perejil picado.
+
   Servimos al momento.
 ---
 
