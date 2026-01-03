@@ -330,7 +330,7 @@ nav a:hover, nav a.active {
 
 .recipe-featured-img {
     width: 100%;
-    max-height: 500px;
+    max-height: 700px;
     object-fit: contain;
     background: #f5f5f5;
     border-radius: var(--radius);
