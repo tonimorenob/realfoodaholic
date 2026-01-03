@@ -6,6 +6,7 @@ thumbnail: /uploads/2021/01/0001-16127166002_20210128_185110_0000.webp
 categories:
   - platos-principales
   - alimentacion-saludable
+  - ensaladas
 ingredientes: \-
 preparacion: \-
 ---
